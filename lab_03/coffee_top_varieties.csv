@@ -1,0 +1,583 @@
+Location.Country,Location.Region,Location.Altitude.Min,Location.Altitude.Max,Location.Altitude.Average,Year,Data.Owner,Data.Type.Species,Data.Type.Variety,Data.Type.Processing method,Data.Production.Number of bags,Data.Production.Bag weight,Data.Scores.Aroma,Data.Scores.Flavor,Data.Scores.Aftertaste,Data.Scores.Acidity,Data.Scores.Body,Data.Scores.Balance,Data.Scores.Uniformity,Data.Scores.Sweetness,Data.Scores.Moisture,Data.Scores.Total,Data.Color
+Brazil,south of minas,1250,1250,1250,2011,nucoffee,Arabica,Bourbon,Natural / Dry,3,60.0,8.5,8.5,8.0,8.0,8.0,8.0,10.0,10.0,0.12,86.92,Green
+Brazil,vale da grama,1300,1300,1300,2011,nucoffee,Arabica,Bourbon,Natural / Dry,29,60.0,8.5,8.17,8.0,7.75,8.0,8.0,10.0,10.0,0.12,86.42,Green
+Brazil,south of minas,1250,1250,1250,2011,nucoffee,Arabica,Bourbon,Semi-washed / Semi-pulped,7,60.0,8.33,8.0,8.0,8.0,7.75,8.0,10.0,10.0,0.11,86.08,Blue-Green
+Brazil,south of minas,1250,1250,1250,2011,nucoffee,Arabica,Bourbon,Semi-washed / Semi-pulped,5,60.0,8.0,8.0,8.0,7.67,7.75,8.0,10.0,10.0,0.11,85.42,Blue-Green
+Brazil,south of minas,1200,1200,1200,2011,nucoffee,Arabica,Bourbon,Natural / Dry,4,60.0,8.0,7.92,7.75,7.75,8.0,7.75,10.0,10.0,0.11,84.92,Green
+Brazil,south of minas,1000,1000,1000,2011,nucoffee,Arabica,Catuai,Natural / Dry,10,60.0,8.0,8.0,7.75,8.0,7.5,7.75,10.0,10.0,0.12,84.92,Green
+Brazil,vale da grama,1300,1300,1300,2011,nucoffee,Arabica,Bourbon,Semi-washed / Semi-pulped,37,60.0,8.0,8.0,7.75,7.75,7.58,7.75,10.0,10.0,0.12,84.58,Green
+Brazil,mountains of minas gerais,1100,1100,1100,2011,nucoffee,Arabica,Catuai,Semi-washed / Semi-pulped,35,60.0,8.5,8.0,7.5,7.75,7.5,7.83,10.0,10.0,0.11,84.58,Blue-Green
+Colombia,la plata,1600,1950,1775,2011,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,121,1.0,7.67,7.67,7.58,7.5,7.67,7.42,10.0,10.0,0.12,83.0,Bluish-Green
+Colombia,huila,1750,1750,1750,2011,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.33,7.58,7.17,7.58,7.42,7.58,10.0,10.0,0.0,82.42,Green
+Colombia,huila,1750,1750,1750,2011,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.33,7.42,7.33,7.33,7.5,7.67,10.0,10.0,0.0,81.75,Green
+Colombia,huila,1750,1750,1750,2011,exportadora de cafe condor s.a,Arabica,Caturra,Natural / Dry,250,70.0,7.5,7.42,7.25,7.17,7.17,7.75,10.0,10.0,0.11,81.42,Green
+Thailand,chiang rai,1300,1300,1300,2012,itdp international,Arabica,Caturra,Washed / Wet,53,1.0,7.83,8.33,7.83,8.25,7.58,7.92,10.0,10.0,0.1,86.17,Green
+Guatemala,acatenango,1524,1524,1524,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,150,1.0,7.83,8.0,8.0,8.17,7.83,8.0,10.0,10.0,0.12,85.83,Green
+Guatemala,nuevo oriente,1417,1417,1417,2012,juan luis alvarado romero,Arabica,Catuai,Washed / Wet,275,1.0,8.0,8.0,7.83,8.33,7.83,7.83,10.0,10.0,0.1,85.83,Bluish-Green
+El Salvador,"ataco, apaneca - ilamatepec mountain range",1300,1400,1350,2012,lusso lab,Arabica,Bourbon,Semi-washed / Semi-pulped,19,1.0,7.83,8.0,8.0,7.75,7.92,8.17,10.0,10.0,0.11,85.58,
+Guatemala,huehuetenango,1400,1400,1400,2012,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.0,8.25,8.0,7.67,7.92,7.75,7.67,10.0,10.0,0.0,85.17,Unknown
+Colombia,cundinamarca,2136,2136,2136,2012,carcafe ltda ci,Arabica,Caturra,Natural / Dry,250,70.0,7.83,8.0,7.75,7.75,7.83,7.83,10.0,10.0,0.11,85.08,Green
+Colombia,huila,1600,1950,1775,2012,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,50,70.0,7.75,7.92,7.83,7.75,7.75,8.0,10.0,10.0,0.11,84.92,Green
+Mexico,coatepec,1200,1200,1200,2012,artemio zapata tejeda,Arabica,Typica,Semi-washed / Semi-pulped,25,1.0,7.75,8.0,7.75,7.83,7.5,7.92,10.0,10.0,0.11,84.92,Unknown
+Guatemala,oriente,1310,1310,1310,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,8.0,7.83,7.67,7.83,7.67,8.0,10.0,10.0,0.11,84.67,Green
+Guatemala,acatenango,1524,1524,1524,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,125,1.0,7.67,7.83,7.67,8.0,7.67,7.83,10.0,10.0,0.12,84.67,Green
+Mexico,el remudadero,1200,1200,1200,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Washed / Wet,80,1.0,7.83,7.58,7.67,7.92,7.92,7.83,10.0,10.0,0.13,84.67,Unknown
+Colombia,huila,1750,1750,1750,2012,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.67,7.83,7.83,8.0,7.58,7.92,10.0,10.0,0.0,84.58,Green
+Costa Rica,tres rios,1450,1700,1575,2012,lusso lab,Arabica,Bourbon,Semi-washed / Semi-pulped,1,1.0,7.75,7.83,7.75,8.0,7.83,7.67,10.0,10.0,0.12,84.58,Bluish-Green
+Colombia,huila,1800,1800,1800,2012,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.42,7.67,7.75,7.75,8.08,7.83,10.0,10.0,0.11,84.58,Green
+Mexico,hustusco,1350,1350,1350,2012,maria imelda uscanga martinez,Arabica,Typica,Washed / Wet,56,1.0,8.0,7.92,7.42,8.08,7.5,7.67,10.0,10.0,0.12,84.5,Green
+Mexico,jaltenango,1500,1500,1500,2012,alfredo bojalil,Arabica,Typica,Washed / Wet,250,1.0,7.92,7.83,7.75,7.75,7.75,7.83,10.0,10.0,0.11,84.5,Unknown
+Guatemala,"el tumbador, san marcos",0,0,0,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.67,8.0,7.67,8.0,7.5,7.83,10.0,10.0,0.11,84.5,Green
+Taiwan,"mountain ali, taiwan",1200,1200,1200,2012,kao ming lee,Arabica,Typica,Washed / Wet,2,2.0,7.83,7.83,7.75,8.0,7.5,7.75,10.0,10.0,0.11,84.42,Blue-Green
+Mexico,tuxtla gutierrez,1700,1700,1700,2012,victor hugo melchor cordova,Arabica,Typica,Washed / Wet,100,80.0,8.0,7.75,7.75,7.83,7.5,7.67,10.0,10.0,0.12,84.33,Blue-Green
+Mexico,veracruz,1170,1170,1170,2012,manuel herrera juarez,Arabica,Bourbon,Washed / Wet,20,1.0,7.83,7.83,7.75,7.67,7.83,7.58,10.0,10.0,0.12,84.25,Green
+Mexico,"la concordia, chiapas",1400,1400,1400,2012,alfredo bojalil,Arabica,Bourbon,Washed / Wet,250,1.0,7.83,7.92,7.67,7.75,7.5,7.75,10.0,10.0,0.1,84.25,Bluish-Green
+Colombia,huila,1750,1750,1750,2012,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.75,7.75,7.75,7.75,7.83,7.75,10.0,10.0,0.0,84.17,Green
+Guatemala,guatemala,0,0,0,2012,juan luis alvarado romero,Arabica,Catuai,Natural / Dry,275,1.0,7.83,7.5,7.5,8.0,7.83,7.83,10.0,10.0,0.11,84.17,Bluish-Green
+Mexico,santo domingo cacalotepec,1480,1480,1480,2012,andres martinez leon,Arabica,Typica,Washed / Wet,300,1.0,7.67,7.75,7.67,7.75,7.67,7.75,10.0,10.0,0.11,84.08,Green
+Mexico,xicotepec de juarez,900,900,900,2012,oscar ortega carballo,Arabica,Typica,Washed / Wet,48,1.0,7.67,7.75,7.58,7.67,7.75,7.83,10.0,10.0,0.12,83.92,Blue-Green
+Mexico,la concordia,1500,1500,1500,2012,alfredo bojalil,Arabica,Typica,Washed / Wet,250,1.0,7.5,7.67,7.58,7.83,7.75,7.75,10.0,10.0,0.11,83.92,Unknown
+Mexico,la yerbabuena,1400,1400,1400,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Washed / Wet,20,1.0,7.75,7.92,7.83,7.92,7.75,7.67,9.33,10.0,0.0,83.92,Green
+Mexico,petatlan,1218,1218,1218,2012,filemon mendoza campos,Arabica,Bourbon,Natural / Dry,20,1.0,7.67,8.0,7.67,7.42,7.67,7.5,10.0,10.0,0.1,83.83,Green
+Mexico,"huazalingo, hidalgo",700,700,700,2012,saul m. hernandez ramirez,Arabica,Caturra,Natural / Dry,10,1.0,7.83,7.58,7.58,7.5,7.75,7.67,10.0,10.0,0.13,83.75,
+Guatemala,quetzaltenango,1300,1300,1300,2012,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.360776,7.67,7.58,7.58,7.67,7.75,7.75,10.0,10.0,0.11,83.75,Bluish-Green
+Colombia,huila,1750,1750,1750,2012,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.75,7.75,7.58,7.83,7.17,7.75,10.0,10.0,0.11,83.67,Green
+Guatemala,oriente,1450,1450,1450,2012,the coffee source inc.,Arabica,Caturra,Natural / Dry,250,1.0,8.17,8.17,7.83,7.67,8.08,7.75,9.33,9.33,0.11,83.67,Green
+Guatemala,oriente,1310,1310,1310,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.67,8.17,7.5,7.42,7.58,7.83,10.0,10.0,0.11,83.67,Green
+Mexico,xicotepec de juarez,1100,1100,1100,2012,juan luis ortega carballo,Arabica,Typica,Washed / Wet,48,1.0,7.67,7.5,7.5,7.33,7.83,8.25,10.0,10.0,0.12,83.67,Green
+Indonesia,east java,1200,1600,1400,2012,ekai international company ltd.,Arabica,Typica,Washed / Wet,10,60.0,8.17,7.67,7.58,7.58,7.42,7.67,10.0,10.0,0.12,83.67,Green
+Guatemala,"sacatepequez, guatemala",1524,1524,1524,2012,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,250,69.0,7.67,7.5,7.33,8.0,7.67,7.67,10.0,10.0,0.1,83.67,Green
+Colombia,huila,1600,1950,1775,2012,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,275,70.0,7.67,7.67,7.58,7.67,7.75,7.58,10.0,10.0,0.11,83.58,Green
+Mexico,xalapa,1000,1000,1000,2012,alfredo bojalil,Arabica,Typica,Washed / Wet,250,1.0,7.83,7.67,7.58,7.58,7.67,7.58,10.0,10.0,0.12,83.58,Unknown
+Colombia,cundinamarca,2136,2136,2136,2012,carcafe ltda ci,Arabica,Caturra,Natural / Dry,250,70.0,7.67,7.58,7.58,7.58,7.67,7.75,10.0,10.0,0.11,83.58,Green
+Brazil,south of minas,1100,1100,1100,2012,nucoffee,Arabica,Catuai,Semi-washed / Semi-pulped,33,60.0,7.83,7.75,7.5,7.75,7.5,7.58,10.0,10.0,0.12,83.58,Blue-Green
+Mexico,xalapa,1170,1170,1170,2012,manuel herrera juarez,Arabica,Bourbon,Natural / Dry,10,1.0,7.83,7.58,7.25,7.5,7.5,7.42,10.0,10.0,0.13,83.5,Green
+Guatemala,atitlan,1524,1524,1524,2012,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,275,69.0,7.83,7.5,7.5,8.0,7.67,7.5,10.0,10.0,0.1,83.5,Green
+Colombia,huila,1600,1950,1775,2012,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,175,70.0,7.67,7.58,7.58,7.67,7.67,7.67,10.0,10.0,0.11,83.5,Green
+Guatemala,oriente,1402,1402,1402,2012,felipe isaza,Arabica,Bourbon,Washed / Wet,250,2.0,7.5,7.5,7.75,7.5,8.0,7.67,10.0,10.0,0.0,83.5,Green
+Colombia,cundinamarca,1450,1450,1450,2012,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.5,7.75,7.58,7.5,7.67,7.75,10.0,10.0,0.11,83.42,Green
+Haiti,"thiotte, haiti",1280,1280,1280,2012,itiah coffee llc,Arabica,Typica,Washed / Wet,2,1.814368,7.58,7.5,7.67,7.5,7.83,7.42,10.0,10.0,0.11,83.33,Green
+Burundi,kayanza,1880,1880,1880,2012,steven kil,Arabica,Bourbon,Washed / Wet,220,60.0,7.75,7.67,7.33,7.5,7.5,7.75,10.0,10.0,0.0,83.33,Unknown
+Colombia,huila,1750,1750,1750,2012,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.5,7.67,7.67,7.58,7.67,7.58,10.0,10.0,0.0,83.33,Green
+Guatemala,oriente,1310,1310,1310,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.83,7.58,7.08,7.83,7.42,8.08,10.0,10.0,0.11,83.25,Green
+Colombia,huila,175,175,175,2012,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.67,7.58,7.58,7.42,7.83,7.58,10.0,10.0,0.12,83.25,Green
+Colombia,la plata,1600,1950,1775,2012,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,175,70.0,7.67,7.67,7.5,7.5,7.58,7.67,10.0,10.0,0.11,83.25,Green
+Mexico,"tlanchinol, hidalgo",532,532,532,2012,saul m. hernandez ramirez,Arabica,Typica,Washed / Wet,10,1.0,7.75,7.67,7.58,7.5,7.42,7.58,10.0,10.0,0.12,83.17,
+Colombia,huila,1600,1950,1775,2012,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,275,70.0,7.67,7.5,7.5,7.5,7.58,8.17,10.0,10.0,0.11,83.17,Green
+Mexico,san isidro,700,700,700,2012,fernando mendoza aparicio,Arabica,Typica,Washed / Wet,15,1.0,7.75,7.5,7.42,7.75,7.58,7.58,10.0,10.0,0.13,83.17,Green
+Colombia,huila,1750,1750,1750,2012,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.58,7.67,7.5,7.58,7.67,7.67,10.0,10.0,0.11,83.17,Blue-Green
+Mexico,la concordia,1380,1380,1380,2012,alfredo bojalil,Arabica,Typica,Washed / Wet,250,1.0,7.5,7.75,7.58,7.58,7.67,7.5,10.0,10.0,0.11,83.17,Unknown
+Guatemala,oriente,1402,1402,1402,2012,felipe isaza,Arabica,Bourbon,Washed / Wet,250,2.0,7.75,7.5,7.67,7.5,7.92,8.0,10.0,9.33,0.0,83.17,Green
+Colombia,huila,1600,1950,1775,2012,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,275,70.0,7.5,7.5,7.42,7.58,7.75,7.58,10.0,10.0,0.11,83.0,Green
+Mexico,coatepec,750,750,750,2012,rosa aurora falcon fernandez,Arabica,Typica,Washed / Wet,15,1.0,7.67,7.58,7.42,7.5,7.67,7.58,10.0,10.0,0.11,83.0,Green
+Mexico,atoyac de alvarez,1200,1200,1200,2012,santiago solis ayerdi,Arabica,Typica,Semi-washed / Semi-pulped,20,1.0,7.67,7.83,7.5,7.58,7.58,7.67,9.33,10.0,0.11,83.0,Green
+Mexico,coatepec,1200,1200,1200,2012,alfredo bojalil,Arabica,Bourbon,Washed / Wet,250,1.0,7.5,7.67,7.5,7.5,7.58,7.58,10.0,10.0,0.11,83.0,Green
+Colombia,huila,1500,1750,1625,2012,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.75,7.58,7.5,7.67,7.83,7.75,9.33,10.0,0.0,83.0,Green
+Colombia,huila,1750,1750,1750,2012,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.67,7.58,7.58,7.58,7.67,7.42,10.0,10.0,0.11,83.0,Green
+Guatemala,"la reforma, san marcos",1371,1371,1371,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,275,1.0,7.5,7.67,7.5,7.67,7.5,7.83,10.0,10.0,0.1,83.0,Green
+Mexico,petatlan,1248,1248,1248,2012,maria guadalupe gomez anzo,Arabica,Typica,Natural / Dry,15,1.0,7.58,7.58,7.33,7.25,7.58,7.75,10.0,10.0,0.1,82.92,Green
+Mexico,la cumbre,1400,1400,1400,2012,veronica lopez castillejos,Arabica,Typica,Washed / Wet,100,1.0,8.0,7.92,7.67,7.17,7.67,7.42,9.33,10.0,0.14,82.92,Green
+Mexico,la concordia,1550,1550,1550,2012,armando luis pohlenz martinez,Arabica,Caturra,Washed / Wet,250,1.0,7.58,7.67,7.5,7.58,7.5,7.5,10.0,10.0,0.12,82.83,Green
+Mexico,veracruz,1250,1250,1250,2012,alfredo bojalil,Arabica,Bourbon,Washed / Wet,250,1.0,7.67,7.58,7.42,7.75,7.42,7.42,10.0,10.0,0.12,82.83,Blue-Green
+Guatemala,oriente,1310,1310,1310,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.67,7.67,7.33,7.5,7.33,7.92,10.0,10.0,0.11,82.83,Green
+Mexico,la concordia,1380,1380,1380,2012,alfredo bojalil,Arabica,Typica,Washed / Wet,250,1.0,7.58,7.58,7.5,7.42,7.67,7.58,10.0,10.0,0.11,82.83,Unknown
+Mexico,veracruz,1200,1200,1200,2012,sergio de la vequia bernardi,Arabica,Typica,Washed / Wet,250,1.0,7.58,7.58,7.33,7.75,7.25,7.58,10.0,10.0,0.12,82.75,Unknown
+Mexico,atoyac de alvarez,1200,1200,1200,2012,romulo bello flores,Arabica,Typica,Natural / Dry,21,1.0,8.08,8.17,8.0,8.0,7.83,7.92,6.67,10.0,0.12,82.75,Unknown
+Colombia,south huila,1400,1850,1625,2012,,Arabica,Caturra,Washed / Wet,250,70.0,7.5,7.58,7.42,7.67,7.5,7.58,10.0,10.0,0.0,82.75,Blue-Green
+Colombia,huila,1600,1950,1775,2012,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,100,70.0,7.67,7.58,7.58,7.58,7.5,7.42,10.0,10.0,0.11,82.75,Green
+Panama,boquete,1100,1100,1100,2012,rachel peterson,Arabica,Catuai,Washed / Wet,300,2.0,7.42,7.42,7.5,7.58,7.5,7.75,10.0,10.0,0.0,82.75,Green
+Colombia,huila,1800,1800,1800,2012,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.75,7.58,7.67,7.25,7.58,7.42,10.0,10.0,0.11,82.67,Bluish-Green
+Guatemala,antigua,1500,1500,1500,2012,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,275,69.0,7.67,7.67,7.17,7.67,7.5,7.5,10.0,10.0,0.11,82.67,Green
+Mexico,mahuixtlan,950,950,950,2012,grupo cafetalero los brujos spr de rl,Arabica,Typica,Washed / Wet,23,1.0,7.5,7.58,7.58,7.58,7.42,7.42,10.0,10.0,0.12,82.67,Unknown
+Colombia,huila,1750,1750,1750,2012,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.75,7.5,7.75,7.25,7.33,7.58,10.0,10.0,0.11,82.58,Unknown
+Mexico,oaxaca,1250,1250,1250,2012,guillermo rojas saldana,Arabica,Typica,Washed / Wet,50,1.0,7.5,7.58,7.5,7.5,7.42,7.5,10.0,10.0,0.1,82.58,Green
+Mexico,colima,1150,1150,1150,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Washed / Wet,70,1.0,7.67,7.58,7.58,7.75,7.67,6.83,10.0,10.0,0.12,82.58,Green
+Colombia,huila,1600,1950,1775,2012,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,275,70.0,7.33,7.42,7.58,7.42,7.67,7.5,10.0,10.0,0.11,82.58,Green
+Mexico,san bartolo tutotepec,1679,1679,1679,2012,saul m. hernandez ramirez,Arabica,Typica,Washed / Wet,10,1.0,7.5,7.58,7.5,7.5,7.42,7.42,10.0,10.0,0.13,82.5,
+Mexico,zapotitlan de mendez,1100,1100,1100,2012,enrique mitre lopez,Arabica,Typica,Washed / Wet,10,1.0,7.67,7.5,7.33,7.67,7.5,7.33,10.0,10.0,0.12,82.5,Green
+Mexico,la concordia,1650,1650,1650,2012,enrique eduardo lopez aguilar,Arabica,Typica,Semi-washed / Semi-pulped,28,1.0,7.92,7.5,7.33,7.58,7.25,7.42,10.0,10.0,0.11,82.5,Unknown
+Guatemala,oriente,0,0,0,2012,juan luis alvarado romero,Arabica,Caturra,Natural / Dry,275,1.0,7.67,7.33,7.33,7.33,7.5,7.83,10.0,10.0,0.11,82.5,Green
+Colombia,huila,1600,1950,1775,2012,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,275,70.0,7.67,7.5,7.33,7.5,7.25,7.67,10.0,10.0,0.11,82.5,Green
+Brazil,south of minas,1000,1000,1000,2012,nucoffee,Arabica,Catuai,Semi-washed / Semi-pulped,39,60.0,7.58,7.67,7.33,7.5,7.5,7.42,10.0,10.0,0.12,82.42,Blue-Green
+Mexico,xalapa,1170,1170,1170,2012,manuel herrera juarez,Arabica,Caturra,Washed / Wet,10,1.0,7.75,7.33,7.25,7.58,7.58,7.33,10.0,10.0,0.13,82.42,Green
+Mexico,zihuatanejo de azueta,1300,1300,1300,2012,dario cesar galeana sanchez,Arabica,Typica,Washed / Wet,74,1.0,7.5,7.58,7.33,7.5,7.5,7.5,10.0,10.0,0.11,82.42,Green
+Mexico,xicotepec de juarez,1150,1150,1150,2012,alvaro quiros perez,Arabica,Caturra,Washed / Wet,10,1.0,7.58,7.33,7.33,7.58,7.5,7.5,10.0,10.0,0.11,82.42,Green
+Mexico,progreso santa rosa teocelo,1250,1250,1250,2012,olivia hernandez virves,Arabica,Bourbon,Washed / Wet,1,1.0,7.67,7.58,7.33,7.42,7.58,7.33,10.0,10.0,0.13,82.42,Unknown
+Mexico,fln mirador,1450,1450,1450,2012,finca las nieves,Arabica,Typica,Washed / Wet,10,1.0,7.83,7.5,7.42,7.67,7.17,7.33,10.0,10.0,0.12,82.42,Bluish-Green
+Colombia,huila,442,442,442,2012,carcafe ltda ci,Arabica,Caturra,Natural / Dry,250,70.0,7.67,7.33,7.25,7.42,7.5,7.67,10.0,10.0,0.0,82.42,Unknown
+Guatemala,jalapa,1676,1828,1752,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,275,69.0,7.67,7.5,7.33,7.67,7.5,7.33,10.0,10.0,0.11,82.33,Green
+Mexico,"jaltocan, hidalgo",441,441,441,2012,saul m. hernandez ramirez,Arabica,Typica,Natural / Dry,10,1.0,7.58,7.67,7.58,7.33,7.0,7.58,10.0,10.0,0.15,82.33,
+Mexico,veracruz,1170,1170,1170,2012,manuel herrera juarez,Arabica,Bourbon,Washed / Wet,10,1.0,7.67,7.58,7.5,7.58,7.5,7.5,10.0,10.0,0.13,82.33,Green
+Guatemala,oriente,1310,1310,1310,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.5,7.67,7.33,7.5,7.33,7.5,10.0,10.0,0.1,82.33,Green
+Mexico,santa catarina juquila,1200,1400,1300,2012,maria luisa del carmen rojas narvaez,Arabica,Typica,Washed / Wet,10,1.0,8.0,7.75,7.33,7.33,7.08,7.67,9.33,10.0,0.11,82.33,Green
+Colombia,huila,442,442,442,2012,carcafe ltda ci,Arabica,Caturra,Natural / Dry,250,70.0,7.83,7.58,7.33,7.25,7.58,7.42,10.0,10.0,0.0,82.33,Green
+Mexico,"calnali, hidalgo",533,533,533,2012,saul m. hernandez ramirez,Arabica,Bourbon,Washed / Wet,10,1.0,7.58,7.58,7.5,7.17,7.42,7.42,10.0,10.0,0.16,82.25,
+Mexico,veracruz,1170,1170,1170,2012,manuel herrera juarez,Arabica,Bourbon,Washed / Wet,10,1.0,7.5,7.58,7.42,7.67,7.33,7.42,10.0,10.0,0.13,82.25,Green
+Mexico,juquila,1250,1250,1250,2012,guillermo rojas saldana,Arabica,Typica,Washed / Wet,40,1.0,7.67,7.58,7.33,7.5,7.42,7.42,10.0,10.0,0.12,82.25,Green
+Mexico,veracruz,1100,1100,1100,2012,sergio de la vequia bernardi,Arabica,Typica,Washed / Wet,250,1.0,7.33,7.58,7.42,7.67,7.33,7.5,10.0,10.0,0.11,82.25,Green
+Mexico,canoas,900,900,900,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Washed / Wet,250,1.0,7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,0.1,82.25,Green
+Colombia,huila,1750,1750,1750,2012,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.5,7.42,7.67,7.33,7.58,7.33,10.0,10.0,0.12,82.25,Green
+Colombia,huila,1600,1950,1775,2012,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,100,70.0,7.67,7.33,7.33,7.33,7.5,7.5,10.0,10.0,0.11,82.25,Green
+Mexico,san bartolo tutotepec,1144,1144,1144,2012,saul m. hernandez ramirez,Arabica,Typica,Washed / Wet,10,1.0,7.5,7.67,7.0,7.5,7.33,7.5,10.0,10.0,0.15,82.17,
+Guatemala,oriente,1350,1350,1350,2012,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.0,7.25,7.75,7.0,7.75,8.17,7.75,10.0,9.33,0.12,82.17,
+Mexico,altotonga,1000,1000,1000,2012,salvador caro carrion,Arabica,Typica,Washed / Wet,200,1.0,7.5,7.58,7.25,7.5,7.5,7.33,10.0,10.0,0.12,82.17,Green
+Mexico,colima,1200,1200,1200,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Washed / Wet,60,1.0,7.0,7.67,7.5,7.5,7.42,7.5,10.0,10.0,0.1,82.17,Green
+Mexico,tapachula,1800,1800,1800,2012,julio perez hernandez,Arabica,Typica,Washed / Wet,250,1.0,7.5,7.42,7.42,7.5,7.25,7.5,10.0,10.0,0.13,82.08,Green
+Mexico,coatepec,1250,1250,1250,2012,rosa aurora falcon fernandez,Arabica,Typica,Washed / Wet,15,1.0,7.67,7.5,7.25,7.58,7.42,7.33,10.0,10.0,0.11,82.08,Green
+Mexico,veracruz,1250,1250,1250,2012,sergio de la vequia bernardi,Arabica,Typica,Washed / Wet,250,1.0,7.58,7.42,7.25,7.75,7.33,7.42,10.0,10.0,0.11,82.08,Green
+Mexico,coscomatepec,940,940,940,2012,jorge octavio escamilla prado,Arabica,Typica,Washed / Wet,15,1.0,7.67,7.33,7.25,7.5,7.42,7.42,10.0,10.0,0.12,82.0,Green
+Brazil,cerrado,1050,1050,1050,2012,nucoffee,Arabica,Catuai,Semi-washed / Semi-pulped,75,60.0,7.42,7.5,7.25,7.5,7.5,7.42,10.0,10.0,0.11,82.0,Blue-Green
+Guatemala,san marcos,0,0,0,2012,juan luis alvarado romero,Arabica,Bourbon,Natural / Dry,250,1.0,7.33,7.33,7.33,7.5,7.67,7.67,10.0,10.0,0.11,82.0,Green
+Guatemala,oriente,1402,1402,1402,2012,felipe isaza,Arabica,Bourbon,Washed / Wet,250,2.0,7.75,7.33,7.33,7.42,7.75,7.67,10.0,9.33,0.0,82.0,Green
+Mexico,"chapulhuacan, hidalgo",981,981,981,2012,saul m. hernandez ramirez,Arabica,Typica,Semi-washed / Semi-pulped,10,1.0,7.5,7.5,7.25,7.25,7.5,7.5,10.0,10.0,0.13,81.92,
+Mexico,veracruz,1500,1500,1500,2012,christina dusing,Arabica,Bourbon,Washed / Wet,302,1.0,7.83,7.33,7.25,7.58,7.25,7.33,10.0,10.0,0.12,81.83,Green
+Mexico,coatepec,1250,1250,1250,2012,jorge francisco martinez hachity,Arabica,Typica,Semi-washed / Semi-pulped,15,1.0,7.33,7.33,7.25,7.5,7.5,7.5,10.0,10.0,0.12,81.83,Green
+Mexico,"tenango de doria, hidalgo",774,774,774,2012,saul m. hernandez ramirez,Arabica,Bourbon,Washed / Wet,10,1.0,7.5,7.5,7.33,7.42,7.25,7.25,10.0,10.0,0.13,81.75,
+Mexico,oaxaca,1100,1100,1100,2012,diego manuel woolrich ramirez,Arabica,Typica,Washed / Wet,42,1.0,7.42,7.5,7.33,7.58,7.33,7.33,10.0,10.0,0.11,81.75,Green
+Mexico,la concordia,1550,1550,1550,2012,armando luis pohlenz martinez,Arabica,Caturra,Washed / Wet,250,1.0,7.33,7.42,7.33,7.67,7.42,7.25,10.0,10.0,0.12,81.75,Green
+Mexico,la concordia,1650,1650,1650,2012,enrique eduardo lopez aguilar,Arabica,Typica,Washed / Wet,28,1.0,7.5,7.42,7.25,7.33,7.67,7.25,10.0,10.0,0.12,81.75,Unknown
+Guatemala,jalapa,1676,1828,1752,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,275,69.0,7.5,7.67,7.33,7.33,7.33,7.33,10.0,10.0,0.11,81.67,Green
+Mexico,tuxtla gutierrez,1650,1650,1650,2012,virginia gordillo gordillo,Arabica,Typica,Washed / Wet,100,1.0,7.25,7.67,7.58,7.67,7.67,7.58,8.67,10.0,0.13,81.67,Green
+Mexico,yajalon,1400,1400,1400,2012,jose luis munoz guerrero,Arabica,Bourbon,Washed / Wet,15,1.0,7.67,7.25,7.17,7.75,7.5,7.25,10.0,10.0,0.11,81.67,Green
+Mexico,veracruz,1200,1200,1200,2012,christina dusing,Arabica,Bourbon,Washed / Wet,275,1.0,7.5,7.42,7.33,7.42,7.42,7.42,10.0,10.0,0.11,81.67,Green
+Mexico,"la concordia, chiapas",1400,1400,1400,2012,alfredo bojalil,Arabica,Bourbon,Washed / Wet,250,1.0,7.58,7.42,7.25,7.58,7.25,7.17,10.0,10.0,0.11,81.67,Green
+Mexico,la concordia,1650,1650,1650,2012,enrique eduardo lopez aguilar,Arabica,Typica,Natural / Dry,28,1.0,7.67,7.58,7.42,7.58,7.58,7.42,10.0,8.67,0.11,81.58,Unknown
+Mexico,amatenango de la frontera,1600,1600,1600,2012,alfredo bojalil,Arabica,Typica,Washed / Wet,250,1.0,7.58,7.42,7.25,7.42,7.33,7.33,10.0,10.0,0.12,81.5,Green
+Mexico,temaxcalapa,1100,1100,1100,2012,jose luis munoz guerrero,Arabica,Catuai,Washed / Wet,30,1.0,7.42,7.25,7.17,7.42,7.17,8.0,10.0,10.0,0.12,81.5,Green
+Mexico,manzanillo,1000,1000,1000,2012,jose luis munoz guerrero,Arabica,Typica,Semi-washed / Semi-pulped,20,1.0,7.33,7.5,7.33,7.33,7.33,7.42,10.0,10.0,0.11,81.5,Green
+Mexico,tapachula,1250,1250,1250,2012,tomas edelmann blass,Arabica,Bourbon,Washed / Wet,50,80.0,7.42,7.42,7.33,7.17,7.25,7.42,10.0,10.0,0.13,81.5,Green
+Mexico,atoyac de alvarez,1100,1100,1100,2012,maria de la paz aguilar guillen,Arabica,Typica,Natural / Dry,15,1.0,7.5,7.5,7.25,7.5,7.42,7.58,9.33,10.0,0.11,81.5,Green
+Guatemala,oriente,0,0,0,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.33,7.5,7.33,7.42,7.17,7.33,10.0,10.0,0.11,81.5,Green
+Mexico,"huazalingo, hidalgo",763,763,763,2012,saul m. hernandez ramirez,Arabica,Caturra,Washed / Wet,10,1.0,7.42,7.33,7.25,7.17,7.25,7.42,10.0,10.0,0.13,81.42,
+Mexico,"coatepec, coatepec",1100,1100,1100,2012,grupo cafetalero los brujos spr de rl,Arabica,Typica,Washed / Wet,20,1.0,7.42,7.42,7.25,7.25,7.5,7.33,10.0,10.0,0.13,81.42,Unknown
+Mexico,tapachula,1800,1800,1800,2012,julio perez hernandez,Arabica,Typica,Washed / Wet,250,1.0,7.58,7.42,7.25,7.33,7.25,7.25,10.0,10.0,0.13,81.33,Green
+Mexico,veracruz,1000,1000,1000,2012,hector gabriel barreda nader,Arabica,Typica,Washed / Wet,70,1.0,7.33,7.25,7.17,7.42,7.58,7.33,10.0,10.0,0.12,81.33,
+Mexico,motozintla,1500,1500,1500,2012,alfredo bojalil,Arabica,Typica,Washed / Wet,250,1.0,7.42,7.42,7.33,7.33,7.5,7.42,9.33,10.0,0.12,81.25,Green
+Mexico,tapachula,1800,1800,1800,2012,julio perez hernandez,Arabica,Typica,Natural / Dry,250,1.0,7.42,7.25,7.08,7.75,7.42,7.17,10.0,10.0,0.13,81.17,Green
+Guatemala,oriente,1450,1450,1450,2012,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.0,7.42,7.25,7.33,7.25,7.25,7.42,10.0,10.0,0.12,81.17,Green
+Mexico,san fernando,1650,1650,1650,2012,obed rendon ponce,Arabica,Typica,Washed / Wet,100,1.0,7.25,7.42,7.33,7.33,7.17,7.33,10.0,10.0,0.13,81.08,
+Mexico,santo reyes nopala,1300,1300,1300,2012,diego manuel woolrich ramirez,Arabica,Typica,Washed / Wet,30,1.0,7.33,7.25,7.33,7.42,7.25,7.42,10.0,10.0,0.12,81.08,Green
+Mexico,santa maria sitepec,1642,1642,1642,2012,gerardo hernandez valderrabano,Arabica,Typica,Washed / Wet,40,1.0,7.33,7.33,7.25,7.42,7.25,7.25,10.0,10.0,0.11,81.08,Green
+Mexico,talpa de allende,1200,1200,1200,2012,balbino ramirez flores,Arabica,Typica,Washed / Wet,15,1.0,7.42,7.33,7.25,7.42,7.17,7.25,10.0,10.0,0.1,81.08,Green
+Mexico,adolfo lopez mateos,1100,1100,1100,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Washed / Wet,200,1.0,7.58,7.67,7.5,7.67,7.58,7.5,8.0,10.0,0.0,81.0,Green
+Mexico,ixhuatlan del cafe,1186,1186,1186,2012,eduardo luis augusto velazquez solis,Arabica,Typica,Washed / Wet,60,1.0,7.58,7.33,7.08,7.5,7.17,7.25,10.0,10.0,0.13,80.92,Green
+Mexico,motozintla,1210,1210,1210,2012,luis roberto fermoso beltran,Arabica,Catuai,Semi-washed / Semi-pulped,15,1.0,7.17,7.08,7.25,7.42,7.25,7.33,10.0,10.0,0.13,80.83,Green
+Mexico,veracruz,100,100,100,2012,christina dusing,Arabica,Bourbon,Washed / Wet,100,1.0,7.5,7.17,7.33,7.25,7.17,7.17,10.0,10.0,0.13,80.83,Green
+Mexico,oaxaca,1200,1200,1200,2012,diego manuel woolrich ramirez,Arabica,Typica,Washed / Wet,30,1.0,7.58,7.33,7.42,7.25,7.5,7.5,9.33,10.0,0.11,80.75,Green
+Haiti,haiti,1000,1000,1000,2012,myriam kaplan-pasternak,Arabica,Typica,Washed / Wet,1,2.0,7.42,7.0,7.42,7.25,7.08,7.33,10.0,10.0,0.12,80.75,Green
+Guatemala,oriente,0,0,0,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.0,7.33,7.5,7.33,7.0,7.33,10.0,10.0,0.11,80.67,Green
+Guatemala,oriente,0,0,0,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.0,7.5,7.33,7.17,7.17,7.17,10.0,10.0,0.11,80.67,Green
+Mexico,zaragoza itundujia,1450,1450,1450,2012,israel eduardo paz garcia,Arabica,Typica,Washed / Wet,18,1.0,7.25,7.25,7.08,7.33,7.25,7.17,10.0,10.0,0.15,80.5,
+Mexico,pochutla,1050,1050,1050,2012,alfredo bojalil,Arabica,Typica,Washed / Wet,250,1.0,6.92,7.17,7.08,7.5,7.33,7.17,10.0,10.0,0.1,80.42,Green
+Mexico,la concordia,1550,1550,1550,2012,armando luis pohlenz martinez,Arabica,Caturra,Washed / Wet,250,1.0,7.42,7.08,7.08,7.33,7.25,7.17,10.0,10.0,0.12,80.42,Green
+Colombia,,0,0,0,2012,honor dela fuente,Arabica,Typica,Washed / Wet,1,2.0,7.42,8.0,7.83,7.75,8.08,7.58,8.67,8.67,0.1,80.25,Green
+Guatemala,oriente,1400,1400,1400,2012,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.0,7.0,7.17,7.33,7.33,7.0,7.17,10.0,10.0,0.11,80.25,Green
+Mexico,"calnali, hidalgo",808,808,808,2012,saul m. hernandez ramirez,Arabica,Caturra,Washed / Wet,10,1.0,7.58,7.33,7.17,7.25,6.75,7.0,10.0,10.0,0.11,80.25,
+Mexico,zaragoza itundujia,1550,1550,1550,2012,israel eduardo paz garcia,Arabica,Typica,Washed / Wet,15,1.0,7.58,7.42,7.33,7.5,7.08,7.17,8.67,10.0,0.14,80.17,Green
+Mexico,veracruz,1000,1000,1000,2012,marco virgilio ramirez teliz,Arabica,Bourbon,Washed / Wet,15,1.0,7.33,7.33,7.17,7.08,7.25,7.0,10.0,10.0,0.12,80.17,Green
+Guatemala,oriente,1310,1310,1310,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.33,7.33,7.0,7.33,7.0,7.0,10.0,10.0,0.11,80.17,Green
+Mexico,zaragoza itundujia,1300,1300,1300,2012,israel eduardo paz garcia,Arabica,Typica,Washed / Wet,13,1.0,7.33,7.17,7.25,7.08,7.08,7.08,10.0,10.0,0.15,80.08,
+Mexico,escuitla,1300,1300,1300,2012,federico pacheco perez,Arabica,Typica,Washed / Wet,10,1.0,7.25,7.08,7.0,7.17,7.33,7.17,10.0,10.0,0.14,80.08,Green
+Mexico,coatepec,1250,1250,1250,2012,pablo enrique martinez gama,Arabica,Typica,Washed / Wet,20,1.0,7.25,7.25,7.08,7.17,7.33,7.33,9.33,10.0,0.12,80.0,Green
+Mexico,veracruz,1100,1100,1100,2012,christina dusing,Arabica,Bourbon,Washed / Wet,82,1.0,7.5,7.17,7.0,7.17,7.25,7.08,10.0,10.0,0.0,79.92,Unknown
+Mexico,jaltenango,1100,1100,1100,2012,montegrande,Arabica,Catuai,Washed / Wet,250,1.0,7.17,7.08,7.08,7.08,7.5,7.33,9.33,10.0,0.11,79.92,Green
+Mexico,coatepec,1250,1250,1250,2012,pablo enrique martinez gama,Arabica,Typica,Natural / Dry,100,1.0,7.33,7.25,7.0,7.42,7.17,7.17,9.33,10.0,0.12,79.92,Green
+Mexico,veracruz,1300,1300,1300,2012,sergio de la vequia bernardi,Arabica,Typica,Washed / Wet,250,1.0,7.17,7.08,7.0,7.25,7.5,7.0,10.0,10.0,0.12,79.83,Green
+Mexico,zaragoza itundujia,1450,1450,1450,2012,israel eduardo paz garcia,Arabica,Bourbon,Washed / Wet,12,1.0,7.25,7.17,7.17,7.08,7.17,7.0,10.0,10.0,0.14,79.75,
+Mexico,pochutla,1050,1050,1050,2012,alfredo bojalil,Arabica,Typica,Washed / Wet,250,1.0,7.33,7.25,7.0,7.08,7.08,7.0,10.0,10.0,0.1,79.75,Green
+Guatemala,antigua,0,0,0,2012,lusso lab,Arabica,Bourbon,Washed / Wet,275,69.0,7.58,7.33,7.5,7.33,7.0,7.33,9.33,9.33,0.0,79.75,Green
+Mexico,tuxtla gutierrez,1100,1100,1100,2012,montegrande,Arabica,Typica,Washed / Wet,36,1.0,7.25,6.83,6.92,7.08,7.25,7.08,10.0,10.0,0.12,79.75,Unknown
+Mexico,"tenango de doria, hidalgo",975,975,975,2012,saul m. hernandez ramirez,Arabica,Caturra,Washed / Wet,10,1.0,7.33,7.17,7.0,6.75,7.08,7.0,10.0,10.0,0.13,79.67,
+Mexico,tepetzingo,1250,1250,1250,2012,obed rendon ponce,Arabica,Typica,Washed / Wet,50,1.0,7.08,7.0,6.92,7.33,7.25,7.08,10.0,10.0,0.12,79.58,
+Mexico,la concordia,1550,1550,1550,2012,armando luis pohlenz martinez,Arabica,Caturra,Washed / Wet,250,1.0,7.25,6.92,6.92,7.33,7.25,7.0,10.0,10.0,0.13,79.58,Green
+Mexico,la concordia,1550,1550,1550,2012,armando luis pohlenz martinez,Arabica,Caturra,Washed / Wet,250,1.0,7.25,7.08,6.92,7.25,7.58,7.08,9.33,10.0,0.12,79.5,Green
+Mexico,"coatepec, coatepec",1100,1100,1100,2012,mario jose fernandez,Arabica,Typica,Washed / Wet,127,1.0,7.25,7.33,7.0,7.25,7.17,7.17,9.33,10.0,0.12,79.5,Bluish-Green
+Mexico,zentla,950,950,950,2012,eric jesus cordoba arroyo,Arabica,Typica,Washed / Wet,30,1.0,7.0,7.0,6.83,7.33,7.42,6.92,10.0,10.0,0.14,79.33,
+Mexico,zentla,750,750,750,2012,eric jesus cordoba arroyo,Arabica,Typica,Washed / Wet,50,1.0,7.42,7.17,7.08,7.17,7.08,7.08,9.33,10.0,0.14,79.33,Green
+Guatemala,oriente,0,0,0,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.17,6.5,6.33,7.25,7.58,7.33,10.0,10.0,0.11,79.33,Green
+Mexico,veracruz,1000,1000,1000,2012,marco virgilio ramirez teliz,Arabica,Bourbon,Washed / Wet,12,1.0,7.0,7.0,6.92,7.17,7.17,7.08,10.0,10.0,0.13,79.25,Green
+Costa Rica,san rafael,0,0,0,2012,brent hall,Arabica,Catuai,Washed / Wet,1,2.0,7.17,7.42,7.5,8.0,7.25,7.83,10.0,6.67,0.1,79.17,
+Mexico,zaragoza itundujia,1550,1550,1550,2012,israel eduardo paz garcia,Arabica,Typica,Washed / Wet,10,1.0,7.25,7.08,6.92,7.08,7.17,7.17,9.33,10.0,0.14,79.17,
+Mexico,yajalon,1450,1450,1450,2012,julio cesar robles flores,Arabica,Typica,Washed / Wet,53,1.0,7.17,6.92,6.92,7.08,7.17,7.0,10.0,10.0,0.14,79.17,Green
+Mexico,zaragoza itundujia,1500,1500,1500,2012,israel eduardo paz garcia,Arabica,Typica,Washed / Wet,13,1.0,7.33,7.0,6.92,7.25,7.33,7.08,9.33,10.0,0.16,79.08,
+Mexico,talpa de allende,1200,1200,1200,2012,balbino ramirez flores,Arabica,Typica,Washed / Wet,10,1.0,7.17,7.25,7.25,7.17,7.25,7.08,9.33,10.0,0.1,79.08,Bluish-Green
+Peru,san ignacio,1400,1400,1400,2012,sustainable harvest coffee,Arabica,Typica,Washed / Wet,280,69.0,7.67,7.17,7.08,7.25,8.0,7.5,8.67,9.33,0.0,79.0,Unknown
+Mexico,zaragoza itundujia,1550,1550,1550,2012,israel eduardo paz garcia,Arabica,Typica,Semi-washed / Semi-pulped,16,1.0,7.5,7.17,6.92,7.5,7.25,7.0,8.67,10.0,0.14,79.0,Green
+Mexico,zaragoza itundujia,1400,1400,1400,2012,israel eduardo paz garcia,Arabica,Typica,Washed / Wet,14,1.0,7.5,7.0,6.92,7.08,6.92,6.75,10.0,10.0,0.16,78.92,
+Mexico,veracruz,1320,1320,1320,2012,octavio augusto diaz trejo,Arabica,Typica,Washed / Wet,20,1.0,7.25,6.83,6.83,7.0,7.17,7.0,10.0,10.0,0.14,78.75,Green
+Mexico,veracruz,1250,1250,1250,2012,damaso martinez perez,Arabica,Typica,Semi-washed / Semi-pulped,35,1.0,7.25,7.33,7.17,7.25,7.08,7.0,8.67,10.0,0.14,78.75,
+Mexico,"ohuapan, tlaltetela",1350,1350,1350,2012,"productores de especialidad emiliano zapeata, spr.",Arabica,Bourbon,Washed / Wet,10,1.0,7.67,7.17,6.83,7.33,7.58,7.17,9.33,8.67,0.12,78.75,Unknown
+Mexico,yecuatla,1150,1150,1150,2012,juan garcia hernandez,Arabica,Caturra,Washed / Wet,20,1.0,6.92,6.92,6.67,7.25,7.17,6.92,10.0,10.0,0.13,78.67,
+Mexico,tapachula,1400,1400,1400,2012,alfredo bojalil,Arabica,Typica,Washed / Wet,250,1.0,7.0,7.0,6.75,7.33,6.92,6.92,10.0,10.0,0.13,78.58,Green
+Mexico,cofradia de suchitlan,1300,1300,1300,2012,organizaciones de productores de cafe colimense,Arabica,Typica,Washed / Wet,50,1.0,7.92,7.58,7.58,7.92,7.92,7.5,8.0,10.0,0.1,78.58,Unknown
+Mexico,los angeles,1200,1200,1200,2012,francisco ruiz nunez,Arabica,Caturra,Washed / Wet,20,1.0,7.25,7.17,7.0,6.83,7.58,7.08,8.67,10.0,0.13,78.5,Green
+Mexico,zaragoza itundujia,1500,1500,1500,2012,israel eduardo paz garcia,Arabica,Typica,Washed / Wet,10,1.0,7.58,7.17,7.0,7.17,7.33,7.0,8.0,10.0,0.14,78.42,
+Guatemala,oriente,1310,1310,1310,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.17,7.17,6.5,7.17,7.0,6.83,10.0,10.0,0.11,78.33,Green
+Guatemala,oriente,0,0,0,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.17,6.08,6.17,7.25,7.33,7.33,10.0,10.0,0.11,78.33,Green
+Mexico,cordoba,1050,1050,1050,2012,gustavo amieva gonzalez,Arabica,Typica,Washed / Wet,320,1.0,7.08,6.83,6.67,7.25,7.25,6.92,10.0,10.0,0.11,78.08,Green
+Mexico,petatlan,1248,1248,1248,2012,gustavo abarca solis,Arabica,Typica,Washed / Wet,50,1.0,7.42,7.25,7.0,7.0,7.25,7.08,8.0,10.0,0.11,77.92,Green
+Guatemala,oriente,0,0,0,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.17,6.17,6.17,7.08,7.33,6.83,10.0,10.0,0.11,77.92,Green
+Mexico,coatepec,1300,1300,1300,2012,stephany escamilla femat,Arabica,Typica,Washed / Wet,23,1.0,7.17,6.75,6.58,6.75,6.83,6.75,10.0,10.0,0.13,77.5,Green
+Mexico,zaragoza itundujia,1500,1500,1500,2012,israel eduardo paz garcia,Arabica,Typica,Washed / Wet,10,1.0,7.33,7.0,6.67,7.0,6.92,6.92,9.33,10.0,0.15,77.33,
+Mexico,coatepec,1100,1100,1100,2012,homero antonio de anda andrade,Arabica,Typica,Washed / Wet,10,1.0,7.17,6.58,6.58,7.0,7.25,6.58,9.33,10.0,0.13,76.42,Green
+Guatemala,oriente,1310,1310,1310,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.5,7.0,6.83,7.5,7.17,7.33,8.67,8.67,0.11,76.33,Green
+Mexico,zaragoza itundujia,1400,1400,1400,2012,israel eduardo paz garcia,Arabica,Typica,Washed / Wet,11,1.0,7.42,7.0,6.83,7.08,6.92,6.83,7.33,10.0,0.16,76.17,
+Guatemala,oriente,1310,1310,1310,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.92,7.58,7.17,7.58,7.33,7.17,8.0,8.0,0.11,75.58,Green
+Guatemala,oriente,0,0,0,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,6.67,6.5,6.33,7.0,7.17,6.75,8.67,10.0,0.12,75.58,Unknown
+Mexico,huautla de jimenez,1280,1280,1280,2012,martin jimenez casiano,Arabica,Typica,Washed / Wet,18,1.0,7.17,7.17,6.83,7.17,7.42,6.67,8.67,10.0,0.13,75.17,Bluish-Green
+Mexico,menglian,850,850,850,2012,"grupo juvenil magtayani, ac",Arabica,Typica,Washed / Wet,43,1.0,7.0,6.92,6.75,6.92,7.17,6.83,10.0,10.0,0.14,75.0,Green
+Mexico,zaragoza itundujia,1500,1500,1500,2012,israel eduardo paz garcia,Arabica,Typica,Washed / Wet,14,1.0,7.08,6.75,6.58,7.0,7.0,6.75,8.67,10.0,0.17,74.92,
+Mexico,coatepec,1250,1250,1250,2012,pablo enrique martinez gama,Arabica,Typica,Washed / Wet,20,1.0,7.33,6.75,6.67,7.25,7.5,7.0,10.0,10.0,0.12,74.83,Green
+Guatemala,oriente,0,0,0,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,6.75,6.5,6.17,7.0,7.25,6.75,8.0,10.0,0.11,74.75,Unknown
+Guatemala,oriente,0,0,0,2012,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,6.75,6.67,6.17,7.17,7.0,6.58,8.0,10.0,0.11,74.75,Unknown
+Mexico,"chocaman, veracruz",1140,1140,1140,2012,jorge octavio escamilla prado,Arabica,Typica,Washed / Wet,20,1.0,7.0,6.58,6.67,6.83,7.08,6.83,10.0,10.0,0.14,74.33,Green
+Mexico,xalapa,1200,1200,1200,2012,myrna roxana galvez gonzalez,Arabica,Typica,Washed / Wet,100,1.0,6.92,6.42,6.17,7.33,7.25,6.75,10.0,10.0,0.13,74.0,
+Mexico,coatepec,1250,1250,1250,2012,eugene holman pew,Arabica,Typica,Washed / Wet,20,1.0,7.67,7.0,7.17,7.58,7.33,7.33,10.0,10.0,0.12,73.83,Green
+Mexico,veracruz,1800,1800,1800,2012,ricardo aaron sampieri marini,Arabica,Bourbon,Washed / Wet,25,1.0,6.5,6.67,6.42,7.17,7.33,6.5,8.0,10.0,0.11,71.0,Green
+Mexico,juchique de ferrer,900,900,900,2012,juan carlos garcia lopez,Arabica,Bourbon,Washed / Wet,12,1.0,7.08,6.83,6.25,7.42,7.25,6.75,10.0,10.0,0.11,68.33,
+Haiti,"department d'artibonite , haiti",350,350,350,2012,myriam kaplan-pasternak,Arabica,Typica,Natural / Dry,1,2.0,6.75,6.58,6.42,6.67,7.08,6.67,9.33,6.0,0.14,67.92,Blue-Green
+Guatemala,nuevo oriente,1417,1417,1417,2012,juan luis alvarado romero,Arabica,Catuai,Washed / Wet,275,1.0,7.5,6.67,6.67,7.67,7.33,6.67,8.0,1.33,0.1,59.83,Green
+Colombia,tolima,900,1500,1200,2013,lusso lab,Arabica,Caturra,Washed / Wet,1,2.0,7.75,7.92,7.83,8.08,8.08,8.17,10.0,10.0,0.12,86.0,Green
+Colombia,huila,1800,1800,1800,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,275,70.0,8.0,8.0,8.0,8.17,7.83,8.0,10.0,10.0,0.0,85.92,Blue-Green
+El Salvador,apaneca,1500,1500,1500,2013,atlantic specialty coffee,Arabica,Bourbon,Washed / Wet,275,2.0,7.92,8.17,8.0,7.92,7.75,7.83,10.0,10.0,0.1,85.58,Blue-Green
+Guatemala,huehuetenango,1706,1755,1731,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,8.0,7.83,7.67,8.33,7.83,8.0,10.0,10.0,0.11,85.5,Green
+Colombia,huila,1600,1900,1750,2013,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,75,70.0,7.75,7.75,7.83,7.75,7.58,8.0,10.0,10.0,0.0,84.58,Unknown
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,8.17,7.83,7.67,7.83,7.67,7.83,10.0,10.0,0.11,84.5,Green
+Colombia,huila,1800,1800,1800,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,275,70.0,7.75,7.58,7.33,7.83,7.58,8.08,10.0,10.0,0.0,84.33,Green
+Colombia,cauca,1700,1700,1700,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.58,7.5,7.75,7.83,7.92,7.83,10.0,10.0,0.11,84.25,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.92,7.75,7.67,7.67,7.83,7.92,10.0,10.0,0.11,84.17,Green
+El Salvador,apaneca,1500,1500,1500,2013,atlantic specialty coffee,Arabica,Bourbon,Natural / Dry,275,2.0,8.42,8.08,7.5,7.17,7.58,8.17,9.33,10.0,0.11,84.17,Bluish-Green
+Colombia,cauca,1700,1700,1700,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,270,70.0,7.67,7.83,7.67,7.75,7.67,7.75,10.0,10.0,0.11,84.0,Green
+Costa Rica,central valley,1200,1400,1300,2013,eric thormaehlen,Arabica,Catuai,Washed / Wet,250,1.0,7.83,7.42,7.5,7.83,7.75,7.83,10.0,10.0,0.1,83.83,Green
+Colombia,huila,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.67,7.58,7.58,7.83,7.58,7.67,10.0,10.0,0.11,83.83,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.5,7.83,7.5,7.83,7.83,7.67,10.0,10.0,0.11,83.83,Green
+Uganda,west nile,1400,1400,1400,2013,nile highland arabica coffee farmers,Arabica,Bourbon,Natural / Dry,320,60.0,8.0,7.92,7.58,7.75,7.33,7.5,10.0,10.0,0.12,83.75,Green
+Colombia,huila,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.58,7.67,7.75,7.67,7.67,7.67,10.0,10.0,0.0,83.75,Blue-Green
+Colombia,huila,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,275,70.0,7.75,7.67,7.75,7.58,7.42,8.0,10.0,10.0,0.11,83.75,Green
+Colombia,huila supremo,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.83,7.75,7.67,7.58,7.58,7.67,10.0,10.0,0.0,83.67,Green
+Colombia,huila,1800,2000,1900,2013,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,250,70.0,7.67,7.67,7.67,7.67,7.33,7.75,10.0,10.0,0.0,83.67,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.67,7.67,7.42,7.67,8.0,7.75,10.0,10.0,0.12,83.67,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.83,7.67,7.33,7.67,7.67,7.83,10.0,10.0,0.11,83.67,Green
+Guatemala,atitlan,1400,1400,1400,2013,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.0,7.58,7.75,7.5,7.83,7.42,7.67,10.0,10.0,0.1,83.5,Green
+Colombia,huila,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.58,7.75,7.42,7.67,7.75,7.67,10.0,10.0,0.0,83.5,Green
+Colombia,huila,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.58,7.67,7.58,7.75,7.58,7.75,10.0,10.0,0.11,83.5,Green
+Guatemala,oriente,1219,1219,1219,2013,juan luis alvarado romero,Arabica,Bourbon,Natural / Dry,250,69.0,7.75,7.83,7.33,7.83,7.5,7.67,10.0,10.0,0.1,83.42,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.67,7.5,7.75,7.42,7.75,7.75,10.0,10.0,0.11,83.42,Green
+Costa Rica,central valley,1100,1300,1200,2013,eric thormaehlen,Arabica,Catuai,Washed / Wet,250,1.0,7.5,7.67,7.67,7.5,7.83,7.17,10.0,10.0,0.11,83.33,Green
+Colombia,pitalito,1000,1000,1000,2013,carcafe ltda ci,Arabica,Caturra,Natural / Dry,250,70.0,7.67,7.67,7.5,7.67,7.92,7.42,10.0,10.0,0.11,83.33,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.83,7.67,7.17,7.67,7.67,7.67,10.0,10.0,0.11,83.33,Green
+Colombia,huila,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,275,70.0,7.83,7.5,7.67,7.33,7.67,7.67,10.0,10.0,0.11,83.25,Green
+Mexico,chiapas,1300,1300,1300,2013,calixto guillen vazquez,Arabica,Bourbon,Washed / Wet,200,1.0,7.58,7.75,7.5,7.5,7.58,7.58,10.0,10.0,0.12,83.25,Green
+Honduras,san marcos,1450,1450,1450,2013,mayra yessenia torres,Arabica,Catuai,Natural / Dry,275,1.0,7.5,7.5,7.5,7.67,7.67,7.67,10.0,10.0,0.1,83.17,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.67,7.83,7.33,7.67,7.5,7.67,10.0,10.0,0.11,83.17,Green
+Mexico,chiapas,1500,1500,1500,2013,nestor mendez gomez,Arabica,Typica,Washed / Wet,45,1.0,7.75,7.58,7.58,7.58,7.5,7.42,10.0,10.0,0.11,83.17,Green
+Costa Rica,central valley,1100,1300,1200,2013,eric thormaehlen,Arabica,Catuai,Washed / Wet,250,1.0,7.67,7.58,7.5,7.58,7.5,7.5,10.0,10.0,0.11,83.0,Green
+Colombia,huila,1600,1950,1775,2013,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,120,70.0,7.75,7.42,7.33,7.5,7.58,7.17,10.0,10.0,0.11,83.0,Green
+Colombia,huila,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.83,7.5,7.58,7.33,7.5,7.67,10.0,10.0,0.0,83.0,Green
+Colombia,pitalito,1000,1000,1000,2013,carcafe ltda ci,Arabica,Caturra,Natural / Dry,250,70.0,7.33,7.67,7.75,7.42,7.75,7.58,10.0,10.0,0.11,83.0,Green
+Colombia,pitalito,1000,1000,1000,2013,carcafe ltda ci,Arabica,Caturra,Natural / Dry,250,70.0,7.58,7.75,7.42,7.67,7.58,7.42,10.0,10.0,0.0,83.0,Green
+Colombia,huila,1800,2000,1900,2013,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,250,70.0,7.58,7.5,7.75,7.33,7.58,7.58,10.0,10.0,0.11,82.92,Green
+Colombia,huila,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Natural / Dry,250,70.0,7.75,7.5,7.25,7.5,7.75,7.5,10.0,10.0,0.0,82.92,Bluish-Green
+Guatemala,huehuetenango,1658,1755,1706,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.83,7.75,7.25,7.92,7.5,7.17,10.0,10.0,0.11,82.92,Green
+Colombia,santander,1800,1800,1800,2013,"coffeebythebag.com , inc",Arabica,Typica,Natural / Dry,40,1.0,7.5,7.42,7.58,7.5,7.58,7.58,10.0,10.0,0.0,82.83,Green
+Colombia,huila,1600,1950,1775,2013,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,125,70.0,7.83,7.5,7.5,7.42,7.5,7.5,10.0,10.0,0.11,82.83,Green
+Colombia,antioquia,1300,1300,1300,2013,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.0,7.58,7.33,7.17,7.33,7.25,8.58,10.0,10.0,0.1,82.75,Green
+Mexico,chiapas,1550,1550,1550,2013,nestor mendez gomez,Arabica,Typica,Washed / Wet,32,1.0,7.58,7.58,7.5,7.5,7.5,7.5,10.0,10.0,0.12,82.75,Green
+Costa Rica,central valley,1200,1400,1300,2013,eric thormaehlen,Arabica,Catuai,Washed / Wet,250,1.0,7.67,7.42,7.5,7.67,7.0,7.75,10.0,10.0,0.11,82.58,Green
+Colombia,huila,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.75,7.25,7.33,7.42,7.5,7.83,10.0,10.0,0.11,82.58,Blue-Green
+Colombia,huila,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.58,7.5,7.42,7.58,7.67,7.42,10.0,10.0,0.11,82.58,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.83,7.42,7.33,7.67,7.42,7.5,10.0,10.0,0.12,82.5,Green
+Colombia,huila,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.5,7.5,7.42,7.42,7.58,7.58,10.0,10.0,0.11,82.5,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.83,7.67,7.17,7.33,7.5,7.67,10.0,10.0,0.11,82.5,Green
+Guatemala,atitlan,1400,1400,1400,2013,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.0,7.5,7.5,7.5,7.67,7.42,7.5,10.0,10.0,0.1,82.42,Green
+Mexico,veracruz,1170,1170,1170,2013,manuel herrera juarez,Arabica,Bourbon,Washed / Wet,10,1.0,7.5,7.58,7.5,7.92,7.42,7.67,9.33,10.0,0.12,82.42,Green
+Colombia,huila,1600,1950,1775,2013,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,250,70.0,7.67,7.42,7.33,7.5,7.58,7.5,10.0,10.0,0.11,82.42,Green
+Mexico,chiapas,1560,1560,1560,2013,nestor mendez gomez,Arabica,Typica,Washed / Wet,49,1.0,7.5,7.42,7.42,7.67,7.42,7.58,10.0,10.0,0.12,82.42,Green
+Colombia,antioquia,1300,1300,1300,2013,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,3.0,7.42,7.33,7.5,7.17,7.08,8.33,10.0,10.0,0.1,82.33,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.5,7.42,7.58,7.5,7.5,7.58,10.0,10.0,0.12,82.33,Green
+Colombia,huila,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.5,7.42,7.5,7.5,7.5,7.58,10.0,10.0,0.0,82.33,Green
+Mexico,"la concordia, chiapas",1300,1300,1300,2013,alfredo bojalil,Arabica,Typica,Washed / Wet,250,1.0,7.67,7.5,7.42,7.5,7.42,7.42,10.0,10.0,0.12,82.33,Green
+Colombia,huila,1750,1750,1750,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.33,7.25,7.25,7.58,7.75,7.5,10.0,10.0,0.0,82.17,Bluish-Green
+Costa Rica,turrialba,13,13,13,2013,"ceca, s.a.",Arabica,Caturra,Washed / Wet,150,69.0,7.58,7.33,7.33,7.33,7.5,7.67,10.0,10.0,0.11,82.08,Green
+Costa Rica,central valley,1200,1400,1300,2013,eric thormaehlen,Arabica,Catuai,Washed / Wet,250,1.0,7.5,7.25,7.33,7.33,7.75,7.5,10.0,10.0,0.1,82.0,Green
+Colombia,huila,1800,2000,1900,2013,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,250,70.0,7.33,7.33,7.58,7.5,7.5,7.58,10.0,10.0,0.11,82.0,Green
+Mexico,chiapas,1300,1300,1300,2013,calixto guillen vazquez,Arabica,Bourbon,Washed / Wet,450,1.0,7.58,7.5,7.25,7.58,7.5,7.25,10.0,10.0,0.12,81.92,Green
+Colombia,huila,1600,1950,1775,2013,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,50,70.0,7.5,7.5,7.0,7.42,7.5,7.58,10.0,10.0,0.0,81.83,Bluish-Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.83,7.67,7.33,7.33,7.67,7.83,9.33,9.33,0.11,81.83,Green
+Costa Rica,tarrazu,1850,1850,1850,2013,"ceca, s.a.",Arabica,Caturra,Washed / Wet,275,69.0,7.5,7.17,7.17,7.17,7.5,7.08,10.0,10.0,0.11,81.67,Green
+Mexico,"la concordia, chiapas",1400,1400,1400,2013,fredy gordillo reyes,Arabica,Typica,Washed / Wet,310,1.0,7.5,7.42,7.08,7.58,7.33,7.33,10.0,10.0,0.12,81.67,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.42,7.33,7.17,7.58,7.42,7.5,10.0,10.0,0.12,81.58,Green
+Mexico,"la concordia, chiapas",1400,1400,1400,2013,fredy gordillo reyes,Arabica,Typica,Washed / Wet,310,1.0,7.67,7.5,7.42,7.5,6.75,7.42,10.0,10.0,0.12,81.58,Green
+Mexico,"la concordia, chiapas",1150,1150,1150,2013,alfredo bojalil,Arabica,Typica,Washed / Wet,250,1.0,7.33,7.33,7.17,7.42,7.5,7.5,10.0,10.0,0.13,81.5,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.42,7.33,7.25,7.42,7.42,7.5,10.0,10.0,0.12,81.42,Green
+Guatemala,"sacatepequez, guatemala",1524,1524,1524,2013,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,250,69.0,7.5,7.33,7.5,7.58,7.0,7.25,10.0,10.0,0.11,81.25,Green
+Brazil,monte carmelo,0,0,0,2013,bourbon specialty coffees,Arabica,Catuai,Natural / Dry,300,1.0,7.42,7.42,7.17,7.42,7.33,7.25,10.0,10.0,0.11,81.17,Green
+Nicaragua,matagalpa,700,1400,1050,2013,chris finch,Arabica,Caturra,Washed / Wet,275,0.453592,7.33,7.08,7.25,7.0,7.5,7.42,10.0,10.0,0.1,80.92,Green
+Guatemala,orient,1200,1200,1200,2013,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.0,7.67,7.25,7.08,7.33,7.17,7.25,10.0,10.0,0.11,80.83,Green
+Guatemala,"san lucas toliman, solola",1550,1550,1550,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.67,7.17,7.0,7.5,7.0,7.0,10.0,10.0,0.12,80.67,Green
+Guatemala,huehuetenango,1859,1859,1859,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.5,7.5,7.0,7.67,7.17,7.0,10.0,10.0,0.12,80.5,Green
+El Salvador,"department of ahuachapan, municipality of apanecallamatepec mountain",1450,1450,1450,2013,lusso lab,Arabica,Bourbon,Washed / Wet,2,2.0,7.33,7.17,7.08,7.08,7.33,7.17,10.0,10.0,0.0,80.42,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.33,7.33,6.83,7.5,7.0,7.17,10.0,10.0,0.11,80.33,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.33,7.33,7.0,7.17,7.17,7.17,10.0,10.0,0.11,80.17,Green
+Mexico,chiapas,1300,1300,1300,2013,calixto guillen vazquez,Arabica,Bourbon,Washed / Wet,400,1.0,7.33,7.08,7.08,7.33,7.42,7.17,9.33,10.0,0.12,79.92,Green
+Costa Rica,brunca,1100,1100,1100,2013,the coffee source inc.,Arabica,Catuai,Washed / Wet,275,2.0,7.58,7.5,7.67,7.75,7.67,7.58,8.0,10.0,0.1,79.75,Bluish-Green
+Mexico,"la concordia, chiapas",1400,1400,1400,2013,fredy gordillo reyes,Arabica,Typica,Washed / Wet,310,1.0,7.58,7.08,7.0,7.0,7.5,6.92,10.0,10.0,0.12,79.75,Green
+Mexico,chiapas,1022,1022,1022,2013,leonides de la cruz lopez,Arabica,Bourbon,Washed / Wet,275,1.0,7.58,7.08,6.92,7.58,7.5,6.92,10.0,10.0,0.13,79.75,Green
+Mexico,chiapas,1300,1300,1300,2013,calixto guillen vazquez,Arabica,Bourbon,Washed / Wet,380,1.0,7.25,7.08,7.0,7.17,7.17,7.08,10.0,10.0,0.12,79.75,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.5,7.0,6.83,7.08,7.08,7.17,10.0,10.0,0.11,79.67,Green
+Mexico,"la concordia, chiapas",1400,1400,1400,2013,fredy gordillo reyes,Arabica,Typica,Washed / Wet,310,1.0,7.42,7.25,6.83,7.58,7.17,6.58,10.0,10.0,0.12,79.67,Green
+Colombia,cundinamarca,1550,1550,1550,2013,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,250,70.0,7.83,7.5,7.42,7.42,7.67,7.5,10.0,10.0,0.0,79.5,Green
+Guatemala,oriente,1219,1219,1219,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.08,7.33,7.25,7.58,7.33,7.42,9.33,9.33,0.1,79.42,Green
+Colombia,pereira,1200,1200,1200,2013,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.360776,7.42,7.25,6.75,7.25,7.42,7.25,9.33,10.0,0.0,79.33,Green
+Mexico,"la concordia, chiapas",1300,1300,1300,2013,alfredo bojalil,Arabica,Typica,Washed / Wet,250,1.0,7.33,7.0,6.75,7.08,7.17,7.25,9.33,10.0,0.12,78.92,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.33,7.08,6.33,7.25,7.0,7.0,10.0,10.0,0.12,78.75,Green
+China,yunnan,1850,1850,1850,2013,adam ciruli ye,Arabica,Typica,Washed / Wet,1,2.0,7.0,6.92,6.83,7.17,7.17,7.17,10.0,9.33,0.0,78.67,Green
+China,yunnan,1200,1200,1200,2013,samuel eli gurel,Arabica,Typica,Washed / Wet,16,2.0,7.33,7.17,6.92,7.08,7.33,7.0,9.33,9.33,0.1,78.0,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.0,6.83,6.83,7.17,6.67,6.83,10.0,10.0,0.11,78.0,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.0,6.83,6.67,7.17,6.83,6.83,10.0,10.0,0.11,77.83,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,1.0,7.08,6.92,6.33,7.0,6.92,7.0,10.0,10.0,0.11,77.42,Green
+Haiti,"dondon, haiti",400,1250,825,2013,myriam kaplan-pasternak,Arabica,Typica,Washed / Wet,1,1.814368,6.83,6.83,6.83,6.75,6.92,6.92,9.33,10.0,0.1,77.25,Unknown
+Mexico,chiapas,1700,1700,1700,2013,nestor mendez gomez,Arabica,Typica,Washed / Wet,275,1.0,7.08,7.0,6.83,7.5,7.33,6.83,8.0,10.0,0.12,74.67,Green
+Guatemala,oriente,1310,1310,1310,2013,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,6.5,6.33,6.5,7.5,7.33,6.83,8.67,8.67,0.11,74.33,Green
+Costa Rica,san ramon,1300,1300,1300,2014,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.360776,8.08,8.25,8.0,8.17,8.0,8.33,10.0,10.0,0.11,87.17,Green
+Panama,boquete,1680,1680,1680,2014,essencecoffee,Arabica,Caturra,Natural / Dry,100,60.0,8.0,7.75,7.83,7.83,7.67,8.58,10.0,10.0,0.09,85.5,Unknown
+Costa Rica,west valley,1300,1300,1300,2014,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.360776,7.92,8.08,8.0,7.92,8.0,8.08,10.0,9.33,0.0,85.33,Bluish-Green
+Costa Rica,san ramon,1300,1300,1300,2014,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.360776,8.0,7.58,7.58,7.67,8.08,8.5,10.0,10.0,0.1,85.33,Bluish-Green
+Honduras,marcala,1450,1450,1450,2014,cadexsa,Arabica,Catuai,Washed / Wet,275,1.0,7.83,7.75,8.0,7.67,7.67,7.67,10.0,10.0,0.11,84.75,Green
+Costa Rica,west valley,1200,1200,1200,2014,eric thormaehlen,Arabica,Catuai,Washed / Wet,275,1.0,8.0,7.58,7.83,7.75,7.75,7.75,10.0,10.0,0.11,84.67,Green
+Guatemala,oriente,1219,1219,1219,2014,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,8.0,7.92,7.67,7.58,7.58,7.67,10.0,10.0,0.09,84.58,Green
+Colombia,huila,1600,1950,1775,2014,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,275,70.0,7.92,7.75,7.67,7.92,7.67,7.75,10.0,10.0,0.0,84.42,Green
+Guatemala,oriente,1219,1219,1219,2014,juan luis alvarado romero,Arabica,Bourbon,Other,250,69.0,7.83,7.83,7.5,7.92,7.58,7.75,10.0,10.0,0.1,84.25,Green
+Costa Rica,tarrazu,1850,1850,1850,2014,"ceca, s.a.",Arabica,Caturra,Washed / Wet,320,69.0,7.67,7.75,7.67,7.75,7.5,8.0,10.0,10.0,0.0,84.17,Blue-Green
+Colombia,huila,1600,1950,1775,2014,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,200,70.0,7.92,7.75,7.67,7.75,7.67,7.67,10.0,10.0,0.0,84.08,Unknown
+Guatemala,"aldea xeucalvitz, ixil region, quiche department",1550,1550,1550,2014,lusso lab,Arabica,Bourbon,Washed / Wet,1,2.0,7.58,7.75,7.67,8.0,7.75,7.67,10.0,10.0,0.1,84.08,Bluish-Green
+Guatemala,oriente,1219,1219,1219,2014,juan luis alvarado romero,Arabica,Bourbon,Natural / Dry,250,69.0,7.92,7.67,7.42,7.92,7.75,7.83,10.0,10.0,0.1,84.0,Green
+Guatemala,oriente,1219,1219,1219,2014,juan luis alvarado romero,Arabica,Bourbon,Other,250,69.0,7.75,7.83,7.5,7.83,7.58,7.67,10.0,10.0,0.1,84.0,Green
+Colombia,huila,1600,1950,1775,2014,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,138,70.0,7.67,7.67,7.5,7.5,7.67,7.67,10.0,10.0,0.12,84.0,Green
+Colombia,huila,1600,1950,1775,2014,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,275,70.0,7.75,7.58,7.67,7.83,7.83,7.67,10.0,10.0,0.0,83.92,Green
+Guatemala,oriente,1219,1219,1219,2014,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.58,7.83,7.33,8.0,7.58,7.75,10.0,10.0,0.1,83.83,Green
+Colombia,huila,1600,1950,1775,2014,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,100,70.0,7.67,7.67,7.67,7.92,7.5,7.67,10.0,10.0,0.0,83.75,Green
+Guatemala,huehuetenango,1356,1356,1356,2014,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,275,69.0,8.0,7.5,7.33,8.0,8.0,8.0,9.33,10.0,0.1,83.67,Green
+Colombia,huila,1850,1850,1850,2014,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,275,70.0,8.0,7.58,7.25,7.58,7.92,7.58,10.0,10.0,0.11,83.5,Green
+"Tanzania, United Republic Of",karatu northern,1600,1600,1600,2014,ngila estate ltd,Arabica,Bourbon,Washed / Wet,39,60.0,7.75,7.67,7.58,7.67,7.58,7.58,10.0,10.0,0.13,83.42,Green
+Guatemala,antigua,1500,1500,1500,2014,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,250,69.0,7.67,7.75,7.5,7.83,7.58,7.5,10.0,10.0,0.1,83.42,Green
+Costa Rica,san ramon,1300,1300,1300,2014,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.360776,7.67,7.67,7.42,7.67,7.67,7.67,10.0,10.0,0.12,83.33,Green
+Guatemala,antigua,1500,1500,1500,2014,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,26,69.0,7.5,7.67,7.58,7.67,7.67,7.5,10.0,10.0,0.1,83.25,Green
+Colombia,huila,1600,1950,1775,2014,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,232,70.0,7.58,7.5,7.5,7.67,7.5,7.67,10.0,10.0,0.0,83.17,Unknown
+Guatemala,san marcos,1524,1524,1524,2014,juan luis alvarado romero,Arabica,Catuai,Washed / Wet,200,69.0,7.33,7.83,7.17,8.17,7.33,7.67,10.0,10.0,0.09,83.17,Green
+"Tanzania, United Republic Of",kilimanjaro,1800,1800,1800,2014,balam hinyula,Arabica,Bourbon,Washed / Wet,300,1.0,7.58,7.5,7.58,7.75,7.58,7.58,10.0,10.0,0.12,83.17,Green
+Costa Rica,central valley,1200,1400,1300,2014,eric thormaehlen,Arabica,Catuai,Washed / Wet,250,1.0,7.83,7.33,7.5,7.67,7.58,7.67,10.0,10.0,0.1,83.08,Green
+Vietnam,vietnam cau dat,1550,1550,1550,2014,"sunvirtue co., ltd.",Arabica,Caturra,Other,2,2.0,7.75,7.67,7.58,7.58,7.42,7.67,9.33,10.0,0.0,83.0,Green
+Brazil,high mogiana,900,1100,1000,2014,irene alves santos,Arabica,Catuai,Natural / Dry,305,2.0,7.67,7.67,7.67,7.5,7.42,7.5,10.0,10.0,0.0,83.0,Green
+Guatemala,antigua,1500,1500,1500,2014,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,26,69.0,7.67,7.67,7.42,7.83,7.5,7.5,10.0,10.0,0.1,83.0,Green
+Guatemala,antigua,1500,1500,1500,2014,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.75,7.5,7.42,7.58,7.67,7.5,10.0,10.0,0.1,82.92,Green
+Guatemala,antigua,1500,1500,1500,2014,juan luis alvarado romero,Arabica,Caturra,Natural / Dry,26,69.0,7.67,7.83,7.42,7.5,7.33,7.5,10.0,10.0,0.1,82.92,Green
+Guatemala,antigua,1500,1500,1500,2014,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.67,7.67,7.75,7.67,7.42,7.17,10.0,10.0,0.1,82.83,Green
+Colombia,huila,1600,1950,1775,2014,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,250,70.0,7.5,7.58,7.58,7.75,7.33,7.5,10.0,10.0,0.0,82.75,Blue-Green
+Colombia,huila,165,165,165,2014,coffee export,Arabica,Typica,Washed / Wet,275,1.0,7.67,7.42,7.42,7.58,7.33,7.67,10.0,10.0,0.12,82.75,Green
+Brazil,monte carmelo,0,0,0,2014,bourbon specialty coffees,Arabica,Catuai,Natural / Dry,300,60.0,7.33,7.5,7.58,7.58,7.67,7.5,10.0,10.0,0.12,82.67,Unknown
+"Tanzania, United Republic Of",mbinga,1550,1550,1550,2014,taylor winch (t) ltd,Arabica,Bourbon,Washed / Wet,77,60.0,7.58,7.5,7.5,7.58,7.33,7.58,10.0,10.0,0.12,82.67,Green
+Mexico,la yerba,1296,1296,1296,2014,productos y servicios chilindron s.a. de c.v.,Arabica,Typica,Natural / Dry,11,1.0,7.67,7.58,7.42,7.5,7.42,7.5,10.0,10.0,0.11,82.67,Green
+Mexico,la yerba,1296,1296,1296,2014,productos y servicios chilindron s.a. de c.v.,Arabica,Typica,Washed / Wet,10,1.0,7.42,7.5,7.42,7.58,7.42,7.5,10.0,10.0,0.11,82.42,Green
+Guatemala,atitlan,1500,1500,1500,2014,essencecoffee,Arabica,Bourbon,Washed / Wet,250,69.0,7.42,7.42,7.5,7.5,7.42,7.5,10.0,10.0,0.09,82.17,Blue-Green
+"Tanzania, United Republic Of",kilimanjaro,1500,1500,1500,2014,balam hinyula,Arabica,Bourbon,Washed / Wet,300,2.0,7.42,7.33,7.42,7.42,7.5,7.58,10.0,10.0,0.12,82.08,Green
+Honduras,occidental,1400,1400,1400,2014,beneficio santa rosa,Arabica,Caturra,Washed / Wet,275,69.0,7.33,7.33,7.33,7.5,7.5,7.83,10.0,10.0,0.11,82.0,Green
+Indonesia,lington nihuta,1300,1300,1300,2014,essencecoffee,Arabica,Typica,Other,300,10.0,7.42,7.42,7.42,7.33,7.42,7.42,10.0,10.0,0.11,81.83,
+Honduras,comayagua,1350,1350,1350,2014,,Arabica,Caturra,Natural / Dry,275,1.0,7.5,7.5,7.33,7.33,7.33,7.33,10.0,10.0,0.1,81.83,Green
+Mexico,"siltepec el triunfo, chiapas, mexico",1550,1550,1550,2014,kurt kappeli,Arabica,Typica,Washed / Wet,280,2.0,7.42,7.42,7.25,7.5,7.33,7.42,10.0,10.0,0.11,81.83,Green
+Vietnam,vietnam,1040,1040,1040,2014,"sunvirtue co., ltd.",Arabica,Caturra,Washed / Wet,1,2.0,7.0,7.08,7.33,7.5,7.5,7.33,10.0,10.0,0.12,81.75,Bluish-Green
+Honduras,comayagua,1400,1400,1400,2014,,Arabica,Caturra,Natural / Dry,275,1.0,7.5,7.33,7.5,7.5,7.17,7.17,10.0,10.0,0.1,81.67,Green
+Costa Rica,occidental,1200,1200,1200,2014,santa laura exportadora de cafe s.l.e.c. s.a.,Arabica,Caturra,Washed / Wet,250,1.0,7.83,7.33,7.08,7.08,7.33,7.5,10.0,10.0,0.12,81.5,Green
+Guatemala,"san lucas toliman, solola",1550,1550,1550,2014,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.42,7.5,7.17,7.42,7.42,7.42,10.0,10.0,0.1,81.42,Green
+Mexico,siltepec el triunfo,1550,1550,1550,2014,kurt kappeli,Arabica,Typica,Washed / Wet,280,2.0,7.67,7.33,7.25,7.17,7.25,7.42,10.0,10.0,0.0,81.42,Green
+Honduras,san marcos,1450,1450,1450,2014,mayra yessenia torres,Arabica,Catuai,Washed / Wet,275,1.0,7.33,7.33,7.17,7.33,7.5,7.33,10.0,10.0,0.12,81.33,Green
+Philippines,corillera administrative,1200,1200,1200,2014,victoria,Arabica,Typica,Natural / Dry,2,2.0,7.25,7.25,7.25,7.08,7.58,7.5,10.0,10.0,0.0,81.17,
+"Tanzania, United Republic Of",mbinga,1550,1550,1550,2014,taylor winch (t) ltd,Arabica,Bourbon,Washed / Wet,320,60.0,7.58,7.17,7.17,7.33,7.33,7.25,10.0,10.0,0.12,81.17,Bluish-Green
+Malawi,southern- zomba,990,1000,995,2014,afca,Arabica,Caturra,Washed / Wet,300,60.0,7.58,7.25,7.33,7.08,7.33,7.33,10.0,10.0,0.12,81.17,Green
+Costa Rica,central valley,1200,1400,1300,2014,eric thormaehlen,Arabica,Catuai,Washed / Wet,250,1.0,7.33,7.08,7.33,7.25,7.33,7.58,10.0,10.0,0.11,81.17,Green
+Costa Rica,naranjo,1500,1500,1500,2014,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.0,7.42,7.25,7.17,7.25,7.25,7.58,10.0,10.0,0.13,81.08,Green
+Honduras,san marcos,1350,1350,1350,2014,mayra yessenia torres,Arabica,Caturra,Natural / Dry,275,18975.0,7.42,7.25,7.25,7.33,7.25,7.17,10.0,10.0,0.12,81.0,Green
+Panama,boquete,1680,1680,1680,2014,essencecoffee,Arabica,Caturra,Other,100,60.0,7.25,7.33,7.17,7.33,7.33,7.17,10.0,10.0,0.11,80.75,Green
+Costa Rica,san ramon,1300,1300,1300,2014,the coffee source inc.,Arabica,Caturra,Washed / Wet,250,1.360776,7.33,7.33,7.25,7.25,7.17,7.17,10.0,10.0,0.11,80.75,Green
+Malawi,southern- zomba,990,1000,995,2014,afca,Arabica,Caturra,Washed / Wet,100,60.0,7.5,7.25,7.17,7.17,7.25,7.17,10.0,10.0,0.12,80.67,Bluish-Green
+Mexico,"el desmoronado, talpan de allende jalisco",1200,1200,1200,2014,cafe de don balbino s.c. de r.l. de c.v.,Arabica,Typica,Washed / Wet,20,1.0,7.25,7.17,7.17,7.25,7.17,7.42,10.0,10.0,0.12,80.67,Green
+Honduras,occidental,1400,1400,1400,2014,beneficio santa rosa,Arabica,Caturra,Washed / Wet,275,69.0,7.5,7.17,7.0,7.42,7.33,7.0,10.0,10.0,0.11,80.58,Green
+Guatemala,huehuetenango,1383,1383,1383,2014,juan luis alvarado romero,Arabica,Bourbon,Natural / Dry,275,69.0,7.17,7.42,6.83,7.5,7.17,7.25,10.0,10.0,0.11,80.58,Green
+Myanmar,ywar ngan,4287,4287,4287,2014,u htun htun,Arabica,Catuai,Natural / Dry,1,2.0,7.42,7.0,7.08,7.0,7.17,7.33,10.0,10.0,0.0,80.25,Green
+Mexico,"sierra fraylesca, chiapas",1300,1500,1400,2014,kurt kappeli,Arabica,Typica,Washed / Wet,280,2.0,7.58,7.75,7.42,7.5,7.5,7.5,8.67,10.0,0.0,80.0,Green
+Costa Rica,occidental,1200,1200,1200,2014,santa laura exportadora de cafe s.l.e.c. s.a.,Arabica,Caturra,Washed / Wet,250,1.0,7.5,7.25,7.42,7.0,7.08,6.83,8.67,10.0,0.12,77.92,Green
+Peru,san ignacio,900,1500,1200,2014,andrew bowman,Arabica,Caturra,Washed / Wet,275,2.0,7.42,7.75,7.42,7.67,7.92,7.83,8.67,9.33,0.0,77.0,Green
+Mexico,sierra alta mixe y zapoteca,1200,1200,1200,2014,kurt kappeli,Arabica,Typica,Washed / Wet,280,69.0,7.08,7.08,6.92,7.08,6.92,6.92,8.0,8.0,0.0,72.92,Unknown
+Costa Rica,occidental,1200,1200,1200,2014,santa laura exportadora de cafe s.l.e.c. s.a.,Arabica,Caturra,Washed / Wet,250,1.0,6.33,6.5,6.33,6.83,6.33,6.5,10.0,10.0,0.11,71.75,Green
+Mexico,"sierra norte yajalon, chiapas",1000,1000,1000,2014,kurt kappeli,Arabica,Typica,Washed / Wet,280,2.0,6.92,7.0,6.83,6.92,7.42,6.92,6.0,10.0,0.12,70.75,Green
+Honduras,marcala,1450,1450,1450,2014,cadexsa,Arabica,Catuai,Washed / Wet,275,1.0,6.67,6.5,6.17,6.67,6.83,6.17,8.0,8.0,0.1,69.33,Green
+Honduras,marcala,1450,1450,1450,2014,cadexsa,Arabica,Catuai,Washed / Wet,275,1.0,7.0,6.17,6.17,6.67,6.5,6.17,8.0,8.0,0.1,69.17,Green
+Honduras,marcala,1450,1450,1450,2014,cadexsa,Arabica,Catuai,Washed / Wet,275,1.0,7.0,6.33,6.17,6.5,6.67,6.17,8.0,8.0,0.1,69.17,Green
+Colombia,santander,1550,1550,1550,2015,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,275,70.0,8.17,7.92,7.83,8.0,7.58,7.83,10.0,10.0,0.11,85.25,Green
+Colombia,pasto,2560,2560,2560,2015,carcafe ltda ci,Arabica,Caturra,Natural / Dry,250,70.0,8.17,7.83,7.58,8.08,8.0,7.75,10.0,10.0,0.0,85.08,Unknown
+Colombia,huila,1600,1950,1775,2015,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,252,70.0,7.92,7.83,7.75,7.83,7.75,8.0,10.0,10.0,0.12,84.92,Green
+Costa Rica,tarrazu,1150,1150,1150,2015,rodrigo soto,Arabica,Catuai,Washed / Wet,15,69.0,8.08,7.75,7.67,7.83,7.5,7.92,10.0,10.0,0.1,84.67,Blue-Green
+Guatemala,acatenango,1600,1600,1600,2015,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,120,34.0,7.75,7.83,7.58,8.0,7.92,7.75,10.0,10.0,0.1,84.67,Green
+Colombia,huila,442,442,442,2015,carcafe ltda ci,Arabica,Caturra,Natural / Dry,250,70.0,7.75,7.67,8.0,7.67,8.08,7.83,10.0,10.0,0.11,84.33,Green
+Guatemala,huehuetenango,1099,1099,1099,2015,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,275,69.0,7.75,7.92,7.5,8.08,7.58,7.67,10.0,10.0,0.1,84.25,Green
+Colombia,huila,1600,1950,1775,2015,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,275,70.0,7.67,7.67,7.75,7.75,7.67,7.92,10.0,10.0,0.11,84.25,Green
+Colombia,huila,1600,1950,1775,2015,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,248,70.0,7.83,7.67,7.75,7.58,7.92,7.75,10.0,10.0,0.12,84.25,Green
+Colombia,huila,442,442,442,2015,carcafe ltda ci,Arabica,Caturra,Natural / Dry,250,70.0,7.42,7.67,7.83,7.75,7.92,7.83,10.0,10.0,0.12,84.25,Green
+Colombia,huila,1600,1950,1775,2015,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,275,70.0,8.0,7.5,7.5,7.67,8.0,7.83,10.0,10.0,0.0,84.17,Bluish-Green
+Nicaragua,jinotega,900,1100,1000,2015,cooperativa el gorrion r.l,Arabica,Caturra,Natural / Dry,275,2.0,7.67,7.83,7.83,7.5,7.67,7.83,10.0,10.0,0.12,84.17,Bluish-Green
+Guatemala,huehuetenango,1658,1755,1706,2015,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,275,69.0,7.67,7.83,7.58,7.92,7.75,7.67,10.0,10.0,0.12,84.0,Green
+Costa Rica,tarrazu,1850,1850,1850,2015,"ceca, s.a.",Arabica,Caturra,Washed / Wet,275,69.0,7.67,7.67,7.75,7.67,7.5,7.75,10.0,10.0,0.0,83.83,Blue-Green
+Colombia,huila,1600,1950,1775,2015,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,275,70.0,7.67,7.75,7.58,7.67,7.75,7.58,10.0,10.0,0.12,83.58,Green
+Costa Rica,tarrazu,1850,1850,1850,2015,"ceca, s.a.",Arabica,Caturra,Washed / Wet,245,69.0,7.92,7.42,7.5,7.67,7.5,7.67,10.0,10.0,0.0,83.5,Blue-Green
+Colombia,huila,1600,1950,1775,2015,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,180,70.0,7.58,7.58,7.58,7.58,7.75,7.67,10.0,10.0,0.12,83.5,Green
+Colombia,huila,442,442,442,2015,carcafe ltda ci,Arabica,Caturra,Natural / Dry,275,70.0,7.58,7.67,7.58,7.67,7.58,7.67,10.0,10.0,0.12,83.42,Green
+Colombia,santander,1650,1650,1650,2015,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,275,70.0,7.67,7.75,7.42,7.83,7.83,7.42,10.0,10.0,0.11,83.33,Green
+Guatemala,antigua,1500,1500,1500,2015,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,150,69.0,7.5,7.75,7.5,7.83,7.58,7.5,10.0,10.0,0.11,83.17,Green
+Guatemala,oriente,1400,1900,1650,2015,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,100,69.0,7.92,7.67,7.42,7.75,7.5,7.5,10.0,10.0,0.12,83.17,Green
+Uganda,"kasese, mt. rwenzori",1473,1473,1473,2015,ucfa,Arabica,Bourbon,Washed / Wet,310,60.0,7.67,7.58,7.42,7.42,7.83,7.5,10.0,10.0,0.12,83.0,Green
+Uganda,"kasese, mt. rwenzori",1645,1645,1645,2015,ucfa,Arabica,Bourbon,Natural / Dry,325,60.0,7.67,7.67,7.5,7.58,7.42,7.5,10.0,10.0,0.12,83.0,Green
+Guatemala,nuevo oriente,1300,1800,1550,2015,juan luis alvarado romero,Arabica,Catuai,Washed / Wet,275,69.0,7.67,7.75,7.33,7.92,7.42,7.5,10.0,10.0,0.11,83.0,Green
+Guatemala,"el tumbador, san marcos",1371,1371,1371,2015,juan luis alvarado romero,Arabica,Catuai,Washed / Wet,200,69.0,7.75,7.67,7.33,7.75,7.5,7.42,10.0,10.0,0.11,83.0,Green
+Guatemala,antigua,1500,1500,1500,2015,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.83,7.67,7.25,7.67,7.75,7.5,10.0,10.0,0.11,83.0,Green
+Mexico,chiapas,1300,1300,1300,2015,andrew bowman,Arabica,Bourbon,Washed / Wet,275,2.0,7.75,7.67,7.42,7.42,7.75,7.5,10.0,10.0,0.12,82.92,Bluish-Green
+Rwanda,gicumbi,1900,1900,1900,2015,samuel muhirwa,Arabica,Bourbon,Washed / Wet,150,60.0,7.83,7.92,7.75,7.83,7.75,7.75,9.33,9.33,0.11,82.83,Bluish-Green
+Guatemala,oriente,1219,1219,1219,2015,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,80,69.0,7.58,7.58,7.33,7.67,7.67,7.5,10.0,10.0,0.11,82.83,Green
+Indonesia,aceh,1200,1300,1250,2015,andry simarmata,Arabica,Typica,Semi-washed / Semi-pulped,150,2.0,7.83,7.58,7.42,7.33,7.42,7.5,10.0,10.0,0.13,82.58,Blue-Green
+Costa Rica,tarrazu,1850,1850,1850,2015,"ceca, s.a.",Arabica,Caturra,Washed / Wet,100,69.0,7.75,7.5,7.25,7.25,7.42,7.67,10.0,10.0,0.1,82.33,Bluish-Green
+Costa Rica,tarrazu,1550,1550,1550,2015,rodrigo soto,Arabica,Catuai,Washed / Wet,130,69.0,7.75,7.33,7.5,7.5,7.33,7.58,10.0,10.0,0.0,82.33,Green
+Guatemala,huehuetenango,1676,1676,1676,2015,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,275,69.0,7.5,7.42,7.17,7.83,7.5,7.5,10.0,10.0,0.1,82.33,Green
+Honduras,marcala,1350,1350,1350,2015,cadexsa,Arabica,Catuai,Washed / Wet,275,1.0,7.58,7.5,7.42,7.58,7.42,7.42,10.0,10.0,0.11,82.25,Green
+Honduras,comayagua,1500,1500,1500,2015,bismarck castro,Arabica,Caturra,Washed / Wet,200,69.0,7.5,7.5,7.17,7.42,7.5,7.5,10.0,10.0,0.11,82.17,Bluish-Green
+"Tanzania, United Republic Of",ruvuma,1500,1800,1650,2015,langiro farm group,Arabica,Bourbon,Washed / Wet,30,80.0,7.58,7.42,7.42,7.33,7.5,7.42,10.0,10.0,0.13,82.17,Green
+Honduras,marcala,1350,1350,1350,2015,cadexsa,Arabica,Catuai,Washed / Wet,275,1.0,7.67,7.5,7.25,7.42,7.58,7.42,10.0,10.0,0.11,82.17,Green
+Costa Rica,tres rios,1200,1400,1300,2015,"cafetalera internacional cafinter, s.a.",Arabica,Caturra,Washed / Wet,275,350.0,7.75,7.42,7.42,7.25,7.17,7.42,10.0,10.0,0.0,82.08,Blue-Green
+Guatemala,norte,3280,3280,3280,2015,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,130,69.0,7.58,7.5,7.33,7.42,7.58,7.25,10.0,10.0,0.1,81.83,Green
+Myanmar,ywar ngan,4001,4001,4001,2015,u mg mg,Arabica,Catuai,Washed / Wet,1,2.0,7.33,7.58,7.5,7.42,7.33,7.33,10.0,10.0,0.0,81.83,Green
+Mexico,chiapas,1350,1500,1425,2015,viridiana,Arabica,Catuai,Washed / Wet,250,2.0,7.58,7.5,7.33,7.5,7.17,7.33,10.0,10.0,0.11,81.83,Green
+Honduras,marcala,1400,1400,1400,2015,cadexsa,Arabica,Catuai,Washed / Wet,275,1.0,7.5,7.5,7.33,7.5,7.42,7.25,10.0,10.0,0.12,81.83,Green
+Costa Rica,tres rios,1200,1400,1300,2015,"cafetalera internacional cafinter, s.a.",Arabica,Caturra,Washed / Wet,275,18975.0,7.67,7.5,7.5,7.25,7.08,7.42,10.0,10.0,0.09,81.83,Green
+Costa Rica,turrialba,13,13,13,2015,"ceca, s.a.",Arabica,Caturra,Washed / Wet,250,69.0,7.58,7.42,7.5,7.17,7.08,7.58,10.0,10.0,0.12,81.58,Green
+Myanmar,ywar ngan township,1219,1219,1219,2015,genius coffee,Arabica,Catuai,Washed / Wet,1,1.0,7.25,7.42,7.25,7.5,7.33,7.33,10.0,10.0,0.0,81.5,Green
+Honduras,marcala,1400,1400,1400,2015,cadexsa,Arabica,Catuai,Washed / Wet,275,1.0,7.5,7.33,7.17,7.25,7.5,7.42,10.0,10.0,0.12,81.42,Green
+Honduras,marcala,1350,1350,1350,2015,cadexsa,Arabica,Catuai,Washed / Wet,275,1.0,7.58,7.42,7.17,7.42,7.17,7.17,10.0,10.0,0.09,81.33,Green
+Nicaragua,jinotega,1100,1100,1100,2015,"comercial internacional exportadora, s.a.",Arabica,Catuai,Washed / Wet,275,69.0,7.08,7.5,7.33,7.17,7.42,7.25,10.0,10.0,0.1,81.25,Green
+Honduras,marcala,1400,1400,1400,2015,cadexsa,Arabica,Catuai,Washed / Wet,275,1.0,7.42,7.17,7.17,7.5,7.33,7.25,10.0,10.0,0.12,81.25,Green
+Costa Rica,tres rios,1200,1400,1300,2015,"cafetalera internacional cafinter, s.a.",Arabica,Caturra,Washed / Wet,275,18975.0,7.5,7.5,7.33,7.17,7.08,7.17,10.0,10.0,0.11,81.17,Bluish-Green
+Honduras,central region,1450,1450,1450,2015,,Arabica,Catuai,Natural / Dry,275,1.0,7.42,7.33,7.0,7.42,7.33,7.33,10.0,10.0,0.13,81.17,Green
+Guatemala,oriente,1219,1219,1219,2015,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.5,7.25,7.0,7.25,7.5,7.25,10.0,10.0,0.11,81.0,Green
+Myanmar,ywar ngan,3825,3825,3825,2015,u soe,Arabica,Catuai,Washed / Wet,1,2.0,6.92,7.5,7.0,7.58,7.5,7.08,10.0,10.0,0.0,80.75,Green
+Guatemala,huehuetenango,1658,1755,1706,2015,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,275,69.0,7.5,7.33,7.0,7.42,7.17,7.17,10.0,10.0,0.12,80.75,Green
+Honduras,"siguatepeque, comayagua",1450,1450,1450,2015,bismarck castro,Arabica,Caturra,Natural / Dry,275,1.0,7.5,7.33,7.0,7.42,7.25,7.17,10.0,10.0,0.11,80.75,Green
+Honduras,marcala,1350,1350,1350,2015,cadexsa,Arabica,Catuai,Washed / Wet,275,1.0,7.42,7.17,7.08,7.42,7.25,7.25,10.0,10.0,0.09,80.75,Green
+Honduras,central region,1450,1450,1450,2015,,Arabica,Catuai,Natural / Dry,275,1.0,7.25,7.33,7.08,7.5,7.25,7.33,10.0,10.0,0.13,80.75,Green
+Costa Rica,tarrazu,185,185,185,2015,"ceca, s.a.",Arabica,Caturra,Washed / Wet,240,1.0,7.83,7.5,7.67,7.67,7.83,7.5,6.67,10.0,0.11,80.67,Blue-Green
+Nicaragua,jinotega,1100,1275,1187,2015,"exportadora atlantic, s.a.",Arabica,Caturra,Washed / Wet,275,2.0,7.17,7.08,7.08,7.33,7.25,7.08,10.0,10.0,0.11,80.17,Unknown
+Honduras,marcala,1400,1400,1400,2015,cadexsa,Arabica,Catuai,Washed / Wet,275,1.0,7.25,7.25,7.0,7.17,7.08,7.08,10.0,10.0,0.11,80.17,Green
+Nicaragua,jinotega,1050,1050,1050,2015,cooperativa el gorrion r.l,Arabica,Caturra,Natural / Dry,275,69.0,6.92,6.92,7.0,7.42,7.25,7.0,10.0,10.0,0.12,79.5,Green
+Guatemala,nuevo oriente,1300,1800,1550,2015,juan luis alvarado romero,Arabica,Catuai,Washed / Wet,275,69.0,7.25,7.17,6.75,7.25,7.0,6.92,10.0,10.0,0.11,79.17,Green
+Honduras,comayagua,1400,1400,1400,2016,bismarck castro,Arabica,Caturra,,275,69.0,8.17,8.08,8.08,8.0,8.08,8.0,10.0,10.0,0.1,86.67,Green
+Guatemala,nuevo oriente,0,0,0,2016,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,80,69.0,7.92,8.08,7.92,8.08,8.08,7.83,10.0,10.0,0.1,85.92,Green
+Guatemala,oriente,0,0,0,2016,juan luis alvarado romero,Arabica,Bourbon,,250,69.0,8.0,7.92,7.75,8.0,7.92,7.83,10.0,10.0,0.1,85.25,Green
+Colombia,huila,0,0,0,2016,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,135,70.0,8.0,7.92,7.75,7.92,7.75,7.83,10.0,10.0,0.0,85.0,Green
+Costa Rica,tarrazu,1900,1900,1900,2016,troy quimby,Arabica,Catuai,Washed / Wet,36,46.0,7.83,8.0,7.58,7.92,7.92,7.83,10.0,10.0,0.12,85.0,Green
+Colombia,huila,0,0,0,2016,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,243,70.0,7.92,7.92,7.67,7.83,7.92,7.83,10.0,10.0,0.0,84.92,Unknown
+Colombia,huila,0,0,0,2016,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,125,70.0,7.92,7.83,7.58,8.0,7.83,7.67,10.0,10.0,0.0,84.58,Green
+Honduras,comayagua,1500,1500,1500,2016,bismarck castro,Arabica,Caturra,,275,66.0,7.92,8.0,7.75,7.67,7.67,7.75,10.0,10.0,0.1,84.33,Green
+Honduras,central region,1500,1500,1500,2016,bismarck castro,Arabica,Catuai,Washed / Wet,275,69.0,7.58,7.92,7.58,7.75,7.92,7.75,10.0,10.0,0.11,84.33,Green
+Guatemala,antigua,1500,1500,1500,2016,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,230,69.0,7.75,7.75,7.58,7.92,7.75,7.75,10.0,10.0,0.11,84.25,Green
+Colombia,huila,0,0,0,2016,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,250,70.0,7.83,7.75,7.58,7.67,7.75,7.83,10.0,10.0,0.0,84.17,Green
+Costa Rica,tarrazu,1700,1700,1700,2016,wayner jimenez,Arabica,Caturra,Washed / Wet,150,69.0,7.92,7.75,7.67,7.67,7.5,7.67,10.0,10.0,0.09,84.17,Bluish-Green
+Guatemala,huehuetenango,1116,1116,1116,2016,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,275,69.0,7.75,7.75,7.58,8.0,7.67,7.83,10.0,10.0,0.11,84.17,Green
+Guatemala,solola,1565,1565,1565,2016,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,377,69.0,7.75,7.92,7.58,7.92,7.67,7.67,10.0,10.0,0.1,84.17,Green
+Guatemala,norte,3280,3280,3280,2016,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,130,69.0,7.58,7.83,7.58,7.83,7.83,7.67,10.0,10.0,0.1,84.17,Green
+Guatemala,oriente,0,0,0,2016,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,8.0,7.75,7.5,7.58,7.92,7.67,10.0,10.0,0.1,84.08,Green
+Brazil,south of minas,934,934,934,2016,ipanema coffees,Arabica,Bourbon,Natural / Dry,320,60.0,7.58,7.67,7.67,7.75,7.58,7.83,10.0,10.0,0.11,83.92,Green
+Colombia,huila,0,0,0,2016,racafe & cia s.c.a,Arabica,Caturra,,275,70.0,7.83,7.67,7.5,7.75,7.75,7.75,10.0,10.0,0.0,83.83,Green
+Guatemala,antigua,1500,1500,1500,2016,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,100,69.0,7.75,7.75,7.5,7.75,7.83,7.58,10.0,10.0,0.11,83.83,Green
+Honduras,comayagua,1400,1400,1400,2016,bismarck castro,Arabica,Caturra,Washed / Wet,285,69.0,7.5,7.5,7.67,7.67,8.0,8.0,10.0,10.0,0.1,83.67,Green
+Nicaragua,jinotega,1250,1250,1250,2016,"comercial internacional exportadora, s.a.",Arabica,Caturra,Washed / Wet,275,69.0,7.67,7.75,7.67,7.67,7.83,7.58,10.0,10.0,0.1,83.67,Green
+Brazil,south of minas,934,934,934,2016,ipanema coffees,Arabica,Bourbon,Natural / Dry,320,60.0,7.58,7.75,7.58,7.75,7.58,7.58,10.0,10.0,0.11,83.67,Green
+Guatemala,huehuetenango,1128,1128,1128,2016,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,275,69.0,7.75,7.75,7.5,7.83,7.58,7.58,10.0,10.0,0.11,83.58,Green
+Colombia,huila,0,0,0,2016,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,275,70.0,7.75,7.75,7.58,7.58,7.67,7.58,10.0,10.0,0.11,83.58,Green
+Colombia,cundinamarca,1799,1799,1799,2016,carcafe ltda ci,Arabica,Caturra,Washed / Wet,50,70.0,7.75,7.58,7.58,7.75,7.75,7.5,10.0,10.0,0.0,83.5,Bluish-Green
+Colombia,pitalito,1000,1000,1000,2016,carcafe ltda ci,Arabica,Caturra,Natural / Dry,250,70.0,7.75,7.58,7.58,7.5,7.75,7.75,10.0,10.0,0.0,83.5,Green
+Guatemala,oriente,1219,1219,1219,2016,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.67,7.75,7.5,7.83,7.58,7.58,10.0,10.0,0.1,83.5,Bluish-Green
+Colombia,huila,442,442,442,2016,carcafe ltda ci,Arabica,Caturra,Washed / Wet,600,29.0,7.67,7.67,7.5,7.67,7.67,7.58,10.0,10.0,0.11,83.42,Green
+Costa Rica,tarrazu,1850,1850,1850,2016,"ceca, s.a.",Arabica,Caturra,Washed / Wet,275,69.0,7.58,7.5,7.42,7.92,7.5,7.67,10.0,10.0,0.09,83.42,Blue-Green
+Colombia,huila,1650,1650,1650,2016,exportadora de cafe condor s.a,Arabica,Caturra,Washed / Wet,275,70.0,7.75,7.5,7.75,7.58,7.58,7.58,10.0,10.0,0.0,83.33,Unknown
+Colombia,guayata,0,0,0,2016,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,130,70.0,7.67,7.58,7.58,7.42,7.67,7.75,10.0,10.0,0.0,83.33,Blue-Green
+Colombia,huila,0,0,0,2016,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,275,70.0,7.83,7.58,7.58,7.58,7.5,7.58,10.0,10.0,0.0,83.33,Green
+Costa Rica,tarrazu,1900,1900,1900,2016,troy quimby,Arabica,Catuai,Pulped natural / honey,29,46.0,7.5,7.5,7.83,7.5,7.67,7.67,10.0,10.0,0.11,83.25,Green
+"Tanzania, United Republic Of",moshi,168,168,168,2016,taylor winch (t) ltd,Arabica,Bourbon,Washed / Wet,320,60.0,7.67,7.58,7.42,7.67,7.67,7.58,10.0,10.0,0.12,83.17,Green
+Guatemala,antigua,1500,1500,1500,2016,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,250,1500.0,7.67,7.75,7.42,7.75,7.58,7.5,10.0,10.0,0.11,83.17,Green
+Honduras,marcala,1450,1450,1450,2016,cadexsa,Arabica,Catuai,Washed / Wet,275,69.0,7.67,7.67,7.5,7.67,7.5,7.67,10.0,10.0,0.11,83.17,Blue-Green
+Colombia,cundinamarca,1799,1799,1799,2016,carcafe ltda ci,Arabica,Caturra,Washed / Wet,275,70.0,7.58,7.67,7.33,7.67,7.75,7.58,10.0,10.0,0.0,83.08,Green
+Colombia,huila,0,0,0,2016,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,275,70.0,7.75,7.5,7.5,7.42,8.0,7.75,10.0,10.0,0.0,83.08,Green
+Brazil,south of minas,894,894,894,2016,ipanema coffees,Arabica,Bourbon,Natural / Dry,320,60.0,7.5,7.58,7.58,7.67,7.58,7.5,10.0,10.0,0.11,83.0,Green
+Brazil,south of minas,872,872,872,2016,ipanema coffees,Arabica,Bourbon,Natural / Dry,320,60.0,7.5,7.67,7.58,7.67,7.58,7.42,10.0,10.0,0.11,83.0,Bluish-Green
+Costa Rica,tarrazu,1850,1850,1850,2016,"ceca, s.a.",Arabica,Caturra,Washed / Wet,250,69.0,7.58,7.5,7.42,7.67,7.42,7.5,10.0,10.0,0.09,82.75,Bluish-Green
+Brazil,south of minas,934,934,934,2016,ipanema coffees,Arabica,Bourbon,Natural / Dry,320,60.0,7.5,7.58,7.5,7.67,7.5,7.42,10.0,10.0,0.11,82.67,Bluish-Green
+Guatemala,oriente,1219,1219,1219,2016,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.5,7.5,7.33,7.5,7.67,7.5,10.0,10.0,0.1,82.5,Green
+Guatemala,san marcos,1700,1700,1700,2016,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.67,7.58,7.25,7.67,7.42,7.33,10.0,10.0,0.12,82.42,Green
+Colombia,guayata,1600,1600,1600,2016,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,43,70.0,5.08,7.75,7.83,7.75,7.83,8.08,10.0,10.0,0.11,82.42,Green
+Brazil,cerrado,982,982,982,2016,pedro santos e silva,Arabica,Catuai,Natural / Dry,320,2.0,7.33,7.5,7.5,7.33,7.5,7.5,10.0,10.0,0.11,82.33,Green
+Brazil,south of minas,934,934,934,2016,ipanema coffees,Arabica,Bourbon,Natural / Dry,320,60.0,7.5,7.5,7.42,7.5,7.42,7.5,10.0,10.0,0.11,82.33,Bluish-Green
+Brazil,south of minas,934,934,934,2016,ipanema coffees,Arabica,Bourbon,Natural / Dry,320,60.0,7.42,7.42,7.5,7.42,7.42,7.5,10.0,10.0,0.11,82.17,Green
+Brazil,south of minas,894,894,894,2016,ipanema coffees,Arabica,Bourbon,Natural / Dry,320,60.0,7.42,7.58,7.42,7.5,7.42,7.25,10.0,10.0,0.11,82.08,Green
+Brazil,south of minas,944,944,944,2016,ipanema coffees,Arabica,Bourbon,Natural / Dry,230,60.0,7.5,7.33,7.42,7.5,7.33,7.42,10.0,10.0,0.11,82.0,Green
+Costa Rica,tarrazu,1900,1900,1900,2016,troy quimby,Arabica,Catuai,Pulped natural / honey,15,46.0,7.25,7.33,7.5,7.33,7.67,7.42,10.0,10.0,0.0,81.83,Green
+Honduras,marcala,1450,1450,1450,2016,cadexsa,Arabica,Catuai,Washed / Wet,275,69.0,7.58,7.5,7.33,7.33,7.42,7.25,10.0,10.0,0.11,81.67,Blue-Green
+Guatemala,san marcos,1371,1371,1371,2016,juan luis alvarado romero,Arabica,Catuai,Washed / Wet,450,69.0,7.42,7.33,7.08,7.58,7.33,7.25,10.0,10.0,0.1,81.42,Green
+Colombia,huila,0,0,0,2016,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,230,70.0,7.5,7.33,7.33,7.17,7.33,7.42,10.0,10.0,0.0,81.33,Unknown
+Guatemala,norte,3280,3280,3280,2016,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,120,69.0,7.42,7.25,7.17,7.5,7.25,7.17,10.0,10.0,0.09,81.0,Green
+Colombia,guayata,1600,1600,1600,2016,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,43,70.0,7.67,7.5,7.42,5.25,7.67,7.75,10.0,10.0,0.0,81.0,Green
+Honduras,comayagua,1400,1400,1400,2016,bismarck castro,Arabica,Caturra,Natural / Dry,275,69.0,7.25,7.25,7.0,7.0,7.42,7.0,10.0,10.0,0.1,80.25,Green
+Mexico,sierra madre occidental,1600,1600,1600,2016,cafe de don balbino s.c. de r.l. de c.v.,Arabica,Caturra,Washed / Wet,60,69.0,7.25,7.17,7.0,7.33,7.33,7.0,10.0,10.0,0.1,80.25,Green
+Guatemala,oriente,190164,190164,190164,2016,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,25,69.0,7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,0.1,79.75,Green
+Guatemala,oriente,1219,1219,1219,2016,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,25,69.0,7.42,7.42,7.25,7.58,7.42,7.33,9.33,9.33,0.1,79.67,Green
+Guatemala,occidente,1320,1320,1320,2016,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,250,69.0,7.08,7.0,6.92,7.42,7.0,6.92,10.0,10.0,0.11,79.17,Green
+Nicaragua,jalapa,1100,1100,1100,2016,"exportadora atlantic, s.a.",Arabica,Caturra,Other,1,1.0,7.17,7.0,6.92,7.0,7.0,7.0,10.0,10.0,0.1,78.83,Green
+Nicaragua,jalapa,1100,1100,1100,2016,"exportadora atlantic, s.a.",Arabica,Caturra,Other,550,69.0,7.25,6.58,6.33,6.25,6.42,6.08,6.0,6.0,0.13,63.08,Green
+Ethiopia,addis ababa,0,0,0,2017,seid damtew coffee planataion,Arabica,Caturra,Natural / Dry,320,19200.0,7.83,8.0,7.83,8.17,7.92,8.0,10.0,10.0,0.09,85.75,
+Guatemala,san marcos,1700,1700,1700,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.75,7.83,7.58,7.83,7.67,7.75,10.0,10.0,0.13,84.17,Green
+Honduras,comayagua,1500,1500,1500,2017,bismarck castro,Arabica,Caturra,Washed / Wet,275,66.0,7.42,7.83,7.75,7.92,7.75,7.58,10.0,10.0,0.1,84.0,Green
+Colombia,huila,442,442,442,2017,carcafe ltda ci,Arabica,Caturra,Washed / Wet,275,70.0,7.83,7.83,7.58,7.58,7.58,7.58,10.0,10.0,0.11,83.75,Green
+Guatemala,san marcos,1700,1700,1700,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.67,7.75,7.5,7.58,7.58,7.67,10.0,10.0,0.1,83.42,Green
+Mexico,sierra madre occidental,1600,1600,1600,2017,cafe de don balbino s.c. de r.l. de c.v.,Arabica,Typica,Washed / Wet,50,50.0,7.67,7.83,7.42,7.83,7.33,7.5,10.0,10.0,0.11,83.25,Blue-Green
+Guatemala,oriente,1901,1901,1901,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,275,69.0,7.58,7.58,7.33,7.67,7.75,7.58,10.0,10.0,0.1,83.17,Green
+Colombia,guayata,1500,1500,1500,2017,racafe & cia s.c.a,Arabica,Caturra,Washed / Wet,129,70.0,7.58,7.67,7.5,7.33,7.67,7.58,10.0,10.0,0.11,82.92,Green
+Guatemala,san marcos,1700,1700,1700,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.5,7.58,7.33,7.67,7.58,7.58,10.0,10.0,0.11,82.83,Green
+Guatemala,santa rosa,1800,1800,1800,2017,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,275,69.0,7.58,7.67,7.5,7.58,7.5,7.42,10.0,10.0,0.11,82.75,Green
+Guatemala,san marcos,1700,1700,1700,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.5,7.67,7.17,7.67,7.67,7.58,10.0,10.0,0.11,82.75,Green
+Guatemala,santa rosa,1219,1219,1219,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.5,7.5,7.42,7.58,7.67,7.5,10.0,10.0,0.1,82.75,Green
+Guatemala,oriente,1219,1219,1219,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,25,69.0,7.42,7.58,7.42,7.67,7.5,7.5,10.0,10.0,0.1,82.75,Green
+Guatemala,el progreso,157,157,157,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,25,69.0,7.58,7.58,7.33,7.58,7.33,7.67,10.0,10.0,0.12,82.75,Green
+Honduras,comayagua,1400,1400,1400,2017,bismarck castro,Arabica,Caturra,Natural / Dry,275,69.0,7.58,7.5,7.42,7.58,7.5,7.5,10.0,10.0,0.09,82.75,Green
+Guatemala,oriente,1219,1219,1219,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,25,69.0,7.5,7.42,7.42,7.75,7.5,7.5,10.0,10.0,0.1,82.58,Green
+Honduras,comayagua,1400,1400,1400,2017,elsy reyes,Arabica,Caturra,Washed / Wet,275,69.0,7.58,7.58,7.33,7.5,7.5,7.5,10.0,10.0,0.1,82.5,Green
+Guatemala,san marcos,1700,1700,1700,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.58,7.5,7.33,7.75,7.33,7.5,10.0,10.0,0.1,82.42,Green
+Guatemala,el progreso,157,157,157,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,20,69.0,7.58,7.5,7.25,7.67,7.5,7.5,10.0,10.0,0.12,82.42,Green
+Honduras,comayagua,1396,1396,1396,2017,bismarck castro,Arabica,Caturra,Washed / Wet,275,69.0,7.5,7.58,7.33,7.5,7.42,7.42,10.0,10.0,0.1,82.33,Green
+Indonesia,aceh gayo,1300,1300,1300,2017,sanjava coffee,Arabica,Bourbon,Washed / Wet,2,1.0,7.5,7.5,7.42,7.42,7.5,7.42,10.0,10.0,0.15,82.08,Unknown
+Guatemala,oriente,1901,1901,1901,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,25,69.0,7.58,7.5,7.25,7.58,7.58,7.5,9.33,10.0,0.1,81.92,Green
+Guatemala,santa rosa,1219,1219,1219,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.5,7.5,7.25,7.42,7.42,7.42,10.0,10.0,0.11,81.92,Green
+Honduras,comayagua,1400,1400,1400,2017,bismarck castro,Arabica,Caturra,Washed / Wet,274,67.0,7.58,7.5,7.25,7.33,7.42,7.5,10.0,10.0,0.12,81.92,Green
+Guatemala,oriente,157,157,157,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,25,69.0,7.42,7.5,7.25,7.5,7.33,7.42,10.0,10.0,0.1,81.83,Green
+Guatemala,san marcos,1700,1700,1700,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.5,7.5,7.25,7.42,7.42,7.33,10.0,10.0,0.11,81.75,Green
+Guatemala,san marcos,1700,1700,1700,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.42,7.42,7.08,7.42,7.33,7.42,10.0,10.0,0.1,81.67,Green
+Guatemala,santa rosa,1219,1219,1219,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,80,69.0,7.42,7.33,7.17,7.67,7.33,7.42,10.0,10.0,0.12,81.67,Green
+Guatemala,huehuetenango,190164,190164,190164,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,25,69.0,7.42,7.42,7.08,7.5,7.42,7.33,10.0,10.0,0.12,81.58,Green
+Guatemala,santa rosa,1219,1219,1219,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.67,7.58,7.17,7.42,7.33,7.42,9.33,10.0,0.1,81.5,Green
+Nicaragua,jalapa,1100,1100,1100,2017,"exportadora atlantic, s.a.",Arabica,Caturra,Other,550,69.0,7.5,7.42,7.33,7.33,7.25,7.33,10.0,10.0,0.11,81.5,Green
+Honduras,comayagua,1400,1400,1400,2017,elsy reyes,Arabica,Caturra,Washed / Wet,275,69.0,7.5,7.5,7.33,7.42,7.17,7.25,10.0,10.0,0.1,81.5,Green
+Guatemala,santa rosa,0,0,0,2017,juan luis alvarado romero,Arabica,Bourbon,,50,69.0,7.5,7.42,7.25,7.25,7.5,7.25,10.0,10.0,0.12,81.5,Green
+Guatemala,oriente,1901,1901,1901,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,25,69.0,7.67,7.67,7.33,7.58,7.67,7.5,9.33,9.33,0.1,80.92,Green
+Mexico,veracruz,1100,1100,1100,2017,grupo santab s.a de c.v.,Arabica,Bourbon,Washed / Wet,240,69.0,7.5,7.33,7.17,7.42,7.5,7.33,9.33,10.0,0.11,80.92,Green
+Guatemala,santa rosa,1500,1500,1500,2017,juan luis alvarado romero,Arabica,Caturra,Washed / Wet,275,69.0,7.33,7.25,7.08,7.17,7.25,7.17,10.0,10.0,0.1,80.5,Green
+Honduras,ocotepeque,1650,1650,1650,2017,janny marlith torres,Arabica,Catuai,Washed / Wet,15,69.0,7.58,7.33,7.0,7.17,7.33,7.08,10.0,10.0,0.11,80.5,Green
+Nicaragua,jinotega,1250,1250,1250,2017,"comercial internacional exportadora, s.a.",Arabica,Caturra,Washed / Wet,275,69.0,7.33,7.08,6.92,7.08,7.42,7.17,10.0,10.0,0.1,80.0,Green
+Guatemala,san marcos,1700,1700,1700,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.33,7.25,6.92,7.33,7.25,7.33,9.33,10.0,0.1,79.83,Green
+Guatemala,santa rosa,1219,1219,1219,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.33,7.42,7.33,7.42,7.5,7.42,8.67,9.33,0.1,79.17,Green
+Honduras,ocotepeque,1650,1650,1650,2017,janny marlith torres,Arabica,Catuai,Washed / Wet,15,69.0,7.58,7.0,6.75,6.92,7.0,6.92,10.0,10.0,0.11,79.17,Green
+Guatemala,san marcos,1700,1700,1700,2017,juan luis alvarado romero,Arabica,Bourbon,Washed / Wet,50,69.0,7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,0.1,79.08,Green
+Honduras,comayagua,1400,1400,1400,2017,bismarck castro,Arabica,Caturra,,275,69.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0.0,Green
