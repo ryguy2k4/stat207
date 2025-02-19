@@ -1,5 +1,4 @@
-# STAT 207 (Prof. Ellison) (sp24) repo for NetID: ryants4
+# stat207
 
-GitHub username at initialization time: ryguy2k4
+Coursework for STAT 207 (Data Science Exploration) at UIUC.
 
-For next steps, please refer to the instructions provided by your course.
